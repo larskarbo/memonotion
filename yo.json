@@ -1,0 +1,677 @@
+{
+    "recordMap": {
+        "block": {
+            "79a45686-98be-44ad-8d97-a9fba3efb6f8": {
+                "role": "editor",
+                "value": {
+                    "id": "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                    "version": 95,
+                    "type": "page",
+                    "properties": {
+                        "%#rr": [
+                            [
+                                "Middag"
+                            ]
+                        ],
+                        "(Ky6": [
+                            [
+                                "‣",
+                                [
+                                    [
+                                        "p",
+                                        "e0ac2a32-821f-451a-9ddd-039c2bd69fc4"
+                                    ]
+                                ]
+                            ],
+                            [
+                                ","
+                            ],
+                            [
+                                "‣",
+                                [
+                                    [
+                                        "p",
+                                        "c26ec1e8-7689-4878-a2c7-28da66b8456f"
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "SWXI": [
+                            [
+                                "Rund 750ml"
+                            ]
+                        ],
+                        "Wm)c": [
+                            [
+                                "image.jpg",
+                                [
+                                    [
+                                        "a",
+                                        "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcd322f1-4a8c-4c2b-b51c-4db7bab62ce1/image.jpg"
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "`{R)": [
+                            [
+                                "11"
+                            ]
+                        ],
+                        "n!aU": [
+                            [
+                                "‣",
+                                [
+                                    [
+                                        "p",
+                                        "e0ac2a32-821f-451a-9ddd-039c2bd69fc4"
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "pA<H": [
+                            [
+                                "30"
+                            ]
+                        ],
+                        "title": [
+                            [
+                                "Kvit pasta og kjøttdeig"
+                            ]
+                        ]
+                    },
+                    "content": [
+                        "736000b7-d433-4a74-b7bb-460419ecbe6b",
+                        "dfc0d182-5f06-4fa4-989b-33f57b9190d7",
+                        "fccd41f6-f18b-4f96-a38c-e2ec4db5f868",
+                        "56e665b1-e132-408d-9325-3b0aa8791779"
+                    ],
+                    "format": {
+                        "page_cover": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f05cafc6-42a9-4ac0-a9ef-60b336fbced6/Bilde.jpeg",
+                        "page_cover_position": 0.3148
+                    },
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557935932485,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1558894020000,
+                    "parent_id": "a0d54331-4bce-400f-8f44-e3138029cd06",
+                    "parent_table": "collection",
+                    "alive": true,
+                    "file_ids": [
+                        "f05cafc6-42a9-4ac0-a9ef-60b336fbced6",
+                        "1e378974-6117-4bfc-9f10-7f110235e578",
+                        "fcd322f1-4a8c-4c2b-b51c-4db7bab62ce1"
+                    ]
+                }
+            },
+            "7aa8bbb6-1292-41db-b03f-9460e6270113": {
+                "role": "editor",
+                "value": {
+                    "id": "7aa8bbb6-1292-41db-b03f-9460e6270113",
+                    "version": 22,
+                    "type": "collection_view",
+                    "view_ids": [
+                        "122477ce-a50d-4784-9805-474629375bd2",
+                        "5ebb4bee-12c3-4ef0-9408-c8c0cbb0df45"
+                    ],
+                    "collection_id": "a0d54331-4bce-400f-8f44-e3138029cd06",
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557935932485,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1558882860000,
+                    "parent_id": "e619323a-2135-4f57-83ae-b8824e86db83",
+                    "parent_table": "block",
+                    "alive": true
+                }
+            },
+            "e619323a-2135-4f57-83ae-b8824e86db83": {
+                "role": "editor",
+                "value": {
+                    "id": "e619323a-2135-4f57-83ae-b8824e86db83",
+                    "version": 45,
+                    "type": "page",
+                    "properties": {
+                        "title": [
+                            [
+                                "Food"
+                            ]
+                        ]
+                    },
+                    "content": [
+                        "7aa8bbb6-1292-41db-b03f-9460e6270113",
+                        "76a9fafb-663c-49a9-a0ac-854f3a765000",
+                        "c40c1e3b-358b-48a4-a172-3658e1f72676",
+                        "a440880d-772d-4098-b06a-c82ff8b10504",
+                        "1abe580a-2d81-4718-9592-6622d517c37f"
+                    ],
+                    "format": {
+                        "page_icon": "🍱"
+                    },
+                    "permissions": [
+                        {
+                            "role": "editor",
+                            "type": "user_permission",
+                            "user_id": "ece1e643-dda1-43f8-89a6-686da3b80c23"
+                        }
+                    ],
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557935760000,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1558882500000,
+                    "parent_id": "5257cf0b-8124-4419-87b6-815988437df5",
+                    "parent_table": "space",
+                    "alive": true
+                }
+            },
+            "736000b7-d433-4a74-b7bb-460419ecbe6b": {
+                "role": "editor",
+                "value": {
+                    "id": "736000b7-d433-4a74-b7bb-460419ecbe6b",
+                    "version": 3,
+                    "type": "text",
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557943140000,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1557943140000,
+                    "parent_id": "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                    "parent_table": "block",
+                    "alive": true
+                }
+            },
+            "dfc0d182-5f06-4fa4-989b-33f57b9190d7": {
+                "role": "editor",
+                "value": {
+                    "id": "dfc0d182-5f06-4fa4-989b-33f57b9190d7",
+                    "version": 13,
+                    "type": "collection_view",
+                    "view_ids": [
+                        "8f7a4993-707b-4d38-b90f-36d26e4afa35"
+                    ],
+                    "collection_id": "e8b44396-6ae2-4aa8-9ad2-412392ac125d",
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557943167590,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1558882860000,
+                    "parent_id": "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                    "parent_table": "block",
+                    "alive": true,
+                    "copied_from": "465ad064-02b2-4be8-ba84-54b7fd67acce"
+                }
+            },
+            "fccd41f6-f18b-4f96-a38c-e2ec4db5f868": {
+                "role": "editor",
+                "value": {
+                    "id": "fccd41f6-f18b-4f96-a38c-e2ec4db5f868",
+                    "version": 3,
+                    "type": "text",
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557943163035,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1557943140000,
+                    "parent_id": "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                    "parent_table": "block",
+                    "alive": true,
+                    "copied_from": "a3bf6571-96cc-4a5e-a7f6-997c8bce4ad1"
+                }
+            },
+            "56e665b1-e132-408d-9325-3b0aa8791779": {
+                "role": "editor",
+                "value": {
+                    "id": "56e665b1-e132-408d-9325-3b0aa8791779",
+                    "version": 8,
+                    "type": "image",
+                    "properties": {
+                        "source": [
+                            [
+                                "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea292567-ccd0-473e-973b-93783f286788/Bilde.jpeg"
+                            ]
+                        ]
+                    },
+                    "format": {
+                        "block_width": 1440,
+                        "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea292567-ccd0-473e-973b-93783f286788/Bilde.jpeg",
+                        "block_full_width": false,
+                        "block_page_width": true,
+                        "block_aspect_ratio": 1.3333333333333333,
+                        "block_preserve_scale": true
+                    },
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1557944760000,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1557944760000,
+                    "parent_id": "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                    "parent_table": "block",
+                    "alive": true,
+                    "file_ids": [
+                        "ea292567-ccd0-473e-973b-93783f286788"
+                    ]
+                }
+            }
+        },
+        "collection": {
+            "a0d54331-4bce-400f-8f44-e3138029cd06": {
+                "role": "editor",
+                "value": {
+                    "id": "a0d54331-4bce-400f-8f44-e3138029cd06",
+                    "version": 41,
+                    "name": [
+                        [
+                            "Recipes"
+                        ]
+                    ],
+                    "schema": {
+                        "%#rr": {
+                            "name": "Måltid",
+                            "type": "select",
+                            "options": [
+                                {
+                                    "id": "0c9f12a3-d282-4e79-8203-e650883b1849",
+                                    "color": "green",
+                                    "value": "Lunsj"
+                                },
+                                {
+                                    "id": "fd38d22d-5c0f-4a9a-bca5-d1fd15e1d3cb",
+                                    "color": "gray",
+                                    "value": "Middag"
+                                }
+                            ]
+                        },
+                        "(Ky6": {
+                            "name": "Hovedingredienser",
+                            "type": "relation",
+                            "property": "JHa?",
+                            "collection_id": "1487b182-59e9-4eab-89ce-34bcf28d547c"
+                        },
+                        "SWXI": {
+                            "name": "Boks",
+                            "type": "select",
+                            "options": [
+                                {
+                                    "id": "71ce55d3-eb82-406c-8884-597ce01825ca",
+                                    "color": "pink",
+                                    "value": "Firkanta 1l"
+                                },
+                                {
+                                    "id": "2189735c-2c0b-4dfd-8e06-479e1f7b6ad4",
+                                    "color": "green",
+                                    "value": "Rund 750ml"
+                                }
+                            ]
+                        },
+                        "Wm)c": {
+                            "name": "Bilde",
+                            "type": "file"
+                        },
+                        "`{R)": {
+                            "name": "Antall porsjoner",
+                            "type": "number"
+                        },
+                        "n!aU": {
+                            "name": "Related to Ingredienser (Recipe)",
+                            "type": "relation",
+                            "property": "`P5>",
+                            "collection_id": "7c5b1f21-dc5c-44b7-9965-012d6eca69a0"
+                        },
+                        "pA<H": {
+                            "name": "Pris per porsjon",
+                            "type": "number"
+                        },
+                        "title": {
+                            "name": "Name",
+                            "type": "title"
+                        }
+                    },
+                    "format": {
+                        "collection_page_properties": [
+                            {
+                                "visible": true,
+                                "property": "%#rr"
+                            },
+                            {
+                                "visible": true,
+                                "property": "(Ky6"
+                            },
+                            {
+                                "visible": true,
+                                "property": "pA<H"
+                            },
+                            {
+                                "visible": true,
+                                "property": "`{R)"
+                            },
+                            {
+                                "visible": false,
+                                "property": "SWXI"
+                            },
+                            {
+                                "visible": true,
+                                "property": "Wm)c"
+                            }
+                        ]
+                    },
+                    "parent_id": "7aa8bbb6-1292-41db-b03f-9460e6270113",
+                    "parent_table": "block",
+                    "alive": true,
+                    "template_pages": [
+                        "5a98c663-e597-4ad6-9296-1ff0ff9f98d2"
+                    ]
+                }
+            },
+            "e8b44396-6ae2-4aa8-9ad2-412392ac125d": {
+                "role": "editor",
+                "value": {
+                    "id": "e8b44396-6ae2-4aa8-9ad2-412392ac125d",
+                    "version": 16,
+                    "name": [
+                        [
+                            "Kvit pasta og kjøttdeig ingredienser"
+                        ]
+                    ],
+                    "schema": {
+                        "=cwe": {
+                            "name": "Gram",
+                            "type": "number"
+                        },
+                        "Jj2s": {
+                            "name": "Pris",
+                            "type": "number",
+                            "number_format": "rupee"
+                        },
+                        "XS-n": {
+                            "name": "Matvare",
+                            "type": "relation",
+                            "property": "&\\w\\",
+                            "collection_id": "1487b182-59e9-4eab-89ce-34bcf28d547c"
+                        },
+                        "rA!Q": {
+                            "name": "Beskrivelse",
+                            "type": "text"
+                        },
+                        "title": {
+                            "name": "Matvare",
+                            "type": "title"
+                        }
+                    },
+                    "format": {
+                        "collection_page_properties": [
+                            {
+                                "visible": true,
+                                "property": "XS-n"
+                            },
+                            {
+                                "visible": true,
+                                "property": "=cwe"
+                            }
+                        ]
+                    },
+                    "parent_id": "dfc0d182-5f06-4fa4-989b-33f57b9190d7",
+                    "parent_table": "block",
+                    "alive": true,
+                    "copied_from": "4dd57693-4e06-4f81-a59f-0542ecc5e5e3"
+                }
+            }
+        },
+        "notion_user": {
+            "ece1e643-dda1-43f8-89a6-686da3b80c23": {
+                "role": "editor",
+                "value": {
+                    "id": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "version": 6,
+                    "email": "larskarbo@gmail.com",
+                    "given_name": "Lars",
+                    "family_name": "Karbø",
+                    "profile_photo": "https://lh4.googleusercontent.com/-z2-xGGIoHJY/AAAAAAAAAAI/AAAAAAAABuA/tRR2g5AE_0Q/photo.jpg?sz=50",
+                    "onboarding_completed": true,
+                    "mobile_onboarding_completed": true,
+                    "clipper_onboarding_completed": true
+                }
+            }
+        },
+        "collection_view": {
+            "122477ce-a50d-4784-9805-474629375bd2": {
+                "role": "editor",
+                "value": {
+                    "id": "122477ce-a50d-4784-9805-474629375bd2",
+                    "version": 6,
+                    "type": "table",
+                    "name": "Default View",
+                    "query": {
+                        "aggregate": [
+                            {
+                                "id": "count",
+                                "type": "title",
+                                "property": "title",
+                                "view_type": "table",
+                                "aggregation_type": "count"
+                            }
+                        ]
+                    },
+                    "format": {
+                        "table_wrap": true,
+                        "table_properties": [
+                            {
+                                "width": 276,
+                                "visible": true,
+                                "property": "title"
+                            },
+                            {
+                                "width": 100,
+                                "visible": true,
+                                "property": "%#rr"
+                            },
+                            {
+                                "width": 200,
+                                "visible": true,
+                                "property": "SWXI"
+                            },
+                            {
+                                "width": 318,
+                                "visible": true,
+                                "property": "(Ky6"
+                            },
+                            {
+                                "width": 201,
+                                "visible": true,
+                                "property": "pA<H"
+                            },
+                            {
+                                "width": 200,
+                                "visible": true,
+                                "property": "`{R)"
+                            }
+                        ]
+                    },
+                    "parent_id": "7aa8bbb6-1292-41db-b03f-9460e6270113",
+                    "parent_table": "block",
+                    "alive": true,
+                    "page_sort": [
+                        "7fef7db8-f544-44ce-bbec-2a03527e303c",
+                        "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                        "0d222ca3-5271-47ef-adff-f1a338c85ac2"
+                    ]
+                }
+            },
+            "5ebb4bee-12c3-4ef0-9408-c8c0cbb0df45": {
+                "role": "editor",
+                "value": {
+                    "id": "5ebb4bee-12c3-4ef0-9408-c8c0cbb0df45",
+                    "version": 23,
+                    "type": "gallery",
+                    "name": "",
+                    "format": {
+                        "gallery_cover": {
+                            "type": "property",
+                            "property": "Wm)c"
+                        },
+                        "gallery_cover_size": "small",
+                        "gallery_properties": [
+                            {
+                                "visible": false,
+                                "property": "`{R)"
+                            },
+                            {
+                                "visible": false,
+                                "property": "Wm)c"
+                            },
+                            {
+                                "visible": false,
+                                "property": "SWXI"
+                            },
+                            {
+                                "visible": false,
+                                "property": "(Ky6"
+                            },
+                            {
+                                "visible": true,
+                                "property": "%#rr"
+                            },
+                            {
+                                "visible": true,
+                                "property": "pA<H"
+                            }
+                        ],
+                        "gallery_cover_aspect": "cover",
+                        "gallery_title_visible": true
+                    },
+                    "parent_id": "7aa8bbb6-1292-41db-b03f-9460e6270113",
+                    "parent_table": "block",
+                    "alive": true,
+                    "page_sort": [
+                        "7fef7db8-f544-44ce-bbec-2a03527e303c",
+                        "79a45686-98be-44ad-8d97-a9fba3efb6f8",
+                        "f5d46d30-82e2-403f-878f-868d30230519"
+                    ]
+                }
+            },
+            "8f7a4993-707b-4d38-b90f-36d26e4afa35": {
+                "role": "editor",
+                "value": {
+                    "id": "8f7a4993-707b-4d38-b90f-36d26e4afa35",
+                    "version": 31,
+                    "type": "table",
+                    "name": "Default View",
+                    "query": {
+                        "aggregate": [
+                            {
+                                "id": "count",
+                                "type": "title",
+                                "property": "title",
+                                "view_type": "table",
+                                "aggregation_type": "count"
+                            },
+                            {
+                                "id": "b915ace2-7372-4fb1-ae03-7eb1fa47a282",
+                                "type": "number",
+                                "property": "Jj2s",
+                                "view_type": "table",
+                                "aggregation_type": "sum"
+                            },
+                            {
+                                "id": "edce79f1-4e73-4899-9d78-27e17c1888a2",
+                                "type": "number",
+                                "property": "=cwe",
+                                "view_type": "table",
+                                "aggregation_type": "sum"
+                            }
+                        ],
+                        "filter_operator": "and"
+                    },
+                    "format": {
+                        "table_wrap": true,
+                        "table_properties": [
+                            {
+                                "width": 100,
+                                "visible": true,
+                                "property": "title"
+                            },
+                            {
+                                "width": 200,
+                                "visible": true,
+                                "property": "XS-n"
+                            },
+                            {
+                                "width": 200,
+                                "visible": true,
+                                "property": "=cwe"
+                            },
+                            {
+                                "width": 100,
+                                "visible": true,
+                                "property": "rA!Q"
+                            },
+                            {
+                                "width": 112,
+                                "visible": true,
+                                "property": "Jj2s"
+                            }
+                        ]
+                    },
+                    "parent_id": "dfc0d182-5f06-4fa4-989b-33f57b9190d7",
+                    "parent_table": "block",
+                    "alive": true,
+                    "page_sort": [
+                        "bd618b02-9a21-4e5e-be58-a9f6a5699ec3",
+                        "72d79779-5709-4454-9cca-729759ee81d4",
+                        "c08df609-3ed5-4a63-a863-585cd9253fcf",
+                        "03305903-1397-4021-b9ef-876c7405a856",
+                        "e2d3b9aa-9992-4368-abfc-6613e46fe9a0",
+                        "d97ced98-725b-4f74-a6d2-0d2410b7c1ab",
+                        "f6063bf1-117c-413b-a5a1-6db4f1b37ac2",
+                        "10fdf68d-78e7-4d6d-b7cc-f5aebfdb225d",
+                        "c140a692-a524-42e2-8fe6-218d0930317a",
+                        "05bc99f3-2a0a-41f2-9c2b-e4ed15d20c09",
+                        "1e5e9551-243a-409a-9485-e510fb794702",
+                        "a25ddee9-2503-4c94-bfba-4f9e9f9d119b",
+                        "8e59ec4e-ad4d-4770-b381-f41ee6590155",
+                        "2aef2b63-3970-45a2-9390-3a4b1b73e1a7"
+                    ]
+                }
+            }
+        },
+        "space": {
+            "5257cf0b-8124-4419-87b6-815988437df5": {
+                "role": "editor",
+                "value": {
+                    "id": "5257cf0b-8124-4419-87b6-815988437df5",
+                    "version": 157,
+                    "name": "Lars",
+                    "domain": "larskarbo",
+                    "permissions": [
+                        {
+                            "role": "editor",
+                            "type": "user_permission",
+                            "user_id": "ece1e643-dda1-43f8-89a6-686da3b80c23"
+                        }
+                    ],
+                    "icon": "🎗",
+                    "beta_enabled": false,
+                    "pages": [
+                        "742d98bc-8a0a-4002-858f-6c0c62ba1dcd",
+                        "955861a6-4341-4f2d-94b4-69c2a223afdd",
+                        "f9ec0c6b-039a-411b-bf19-55187cb6e3e7",
+                        "2b7957bb-5701-4847-984a-f6c4aa894d15",
+                        "e619323a-2135-4f57-83ae-b8824e86db83",
+                        "16bb92ab-37ff-4d42-a676-0a681a7b750b",
+                        "97652921-9dde-4b9b-b662-60b55b3f8a4f",
+                        "22b4b6de-317c-4630-8ab9-03160b020708",
+                        "d07e1516-d0e1-4cd4-8df2-c9c8e26b8f7c",
+                        "96897ac5-cea7-4550-9b59-911ddd42a434",
+                        "ab47b565-90ea-43f3-83da-b85bb6a12216",
+                        "e937e4bc-7501-4bb9-be46-bbd4499eeb14",
+                        "8886d843-4dc2-4df6-99c8-46f768b64073",
+                        "8b645ce2-c010-4c88-b1cf-26635adc192e",
+                        "48e23f65-d666-46ca-8dad-d45d8990d887",
+                        "a825ae17-899f-4ac3-81e4-0ac5ceb30202",
+                        "e3443bc7-2332-4b6d-bf34-6146a3edd61e"
+                    ],
+                    "created_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "created_time": 1555744920000,
+                    "last_edited_by": "ece1e643-dda1-43f8-89a6-686da3b80c23",
+                    "last_edited_time": 1558182900000
+                }
+            }
+        }
+    },
+    "cursor": {
+        "stack": []
+    }
+}
