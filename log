@@ -1,0 +1,2819 @@
+INITING NOW!
+block:  id='994323f9-3412-4d2c-8e0d-ac1d12b2c87c', title='📚 tegn en Multivariabel funksjon'
+skipping this: 📚 tegn en Multivariabel funksjon
+block:  id='5a1d841c-7bce-4f24-9493-663b891b7a22', title='📚Bevis'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚Bevis<div><div class='column_list'><div class='column'><p>For at dette skal stemme, må en motstand som er kobla på endepunkta oppleve samme strøm (og derfor også samme spenningsdiff) i begge figurane.</p><p></p>See link to get content<p></p></div><div class='column'><p></p>See link to get content</div></div></div></div>
+path:  ['Kildetransformering', 'Elektronikk', 'Skule (nossr)']
+block:  id='9e79a84b-9515-4682-b6a3-d72c66181bf2', title='📚equilibrium'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚equilibrium<div><p>Når newton si første lov er oppfylt og et legeme har konstant fart uten akselerasjon</p></div></div>
+path:  ['5 - Applying newtons laws', 'drittabell (nossr)']
+block:  id='4467a3ce-a5bc-45b0-aa8c-3006a17f4dc0', title='📚 Sjå på den her (artikkel av fyren):'
+block.type:  page
+block.type:  bookmark
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  sub_sub_header
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  sub_sub_header
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  sub_sub_header
+'NoneType' object is not iterable
+block.type:  bookmark
+'NoneType' object is not iterable
+answer:  See link to get content
+path:  ['📚 Sjå på den her (artikkel av fyren):', "A programmer's introduction to Mathematics", 'Bøker']
+👎👎👎👎ERROR when saving
+block:  id='eb23a2df-7e7e-4306-9bf8-67c874c9cbe1', title='📚 Why is it an advantage to be an optimist?'
+block.type:  page
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  See link to get content
+path:  ['📚 Why is it an advantage to be an optimist?', 'How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='9395c803-ca99-48c3-ac53-24e5f0fb4f65', title='__📚 Buffer:__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+answer:  <div class='toggle'>__📚 Buffer:__<div><div class='column_list'><div class='column'><ul><li>Sender strømmen vidre</li></ul><ul><li>Gjer egentlig ingenting nytting (mi meining)</li></ul><ul><li>For å opprettholde stor strøm</li></ul><p></p></div><div class='column'>See link to get content</div></div></div></div>
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='1b8b6e51-94d3-46c6-8b20-6459c248f22c', title='📚 __Integrator__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Integrator__<div><div class='column_list'><div class='column'><p></p>See link to get content</div><div class='column'>See link to get content</div></div><p></p></div></div>
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='38cf591f-7453-4fe2-a667-1215e064f2ce', title='📚 TABELL:'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p></p><p>steady state solution:</p>See link to get content<p></p></p>
+path:  ['Fourier', '4K', 'Skule (nossr)']
+block:  id='759b7255-b51c-4cdd-8560-92f591c64928', title='📚 __Derivator__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Derivator__<div><div class='column_list'><div class='column'><p>Strømmen gjennom __kondensatoren__ blir:</p>See link to get content<p>Strømmen er __lik i R også__. Derfor blir v2:</p>See link to get content<p></p></div><div class='column'>See link to get content</div></div><p></p></div></div>
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='340afe3c-6347-42f9-83c0-55c9b6f9727f', title='📚 Kva er cortisol?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Stresshormonet som får deg til å gå i fight eller flight</p></p>
+path:  ['Click - The magic of instant connections', 'Bøker']
+block:  id='84629aba-3024-40a2-ac95-1f5b18417544', title='📚Kva er en roosevelt-dash?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Jobba __jævlig__ konsentrert. Sett på en nedtellingstimer synlig og sett deg et mål (kanskje offentliggjør det også) og bli ferdig før tida</p></p>
+path:  ['Deep Work', 'Bøker']
+block:  id='15272b30-9f37-44aa-ba38-1378b1f4df96', title='📚 What is node-gyp?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Bundles compiled c++ into a __.node__ file.</p><p></p><p></p></p>
+path:  ['Nodejs native modules', 'Javascript (js)', 'Dev']
+block:  id='1ec0285f-e2a4-49b6-a1cd-86ce09a4096c', title='📚 Kva betyr altruism'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva betyr altruism<div><p>Når du gjer en uselvisk og god handling ovenfor andre.</p></div></div>
+path:  ['Authentic Happiness', 'Bøker']
+block:  id='2b772f55-5de7-459b-81d8-a5dabdbd70a2', title='📚 Kva er oxytocin?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Hormon som blir sløppe ut når mødre føder. Også viktig for etablering av tillit mellom individer.</p><p></p></p>
+path:  ['Click - The magic of instant connections', 'Bøker']
+block:  id='9a8d1f0e-443e-4cf5-ac8c-b7d398da51a9', title='📚 z-score nfb?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Du ser på gjennomsnittet, av ei stor gruppe av folk.</p>See link to get content<p>📚 koffor heite ditte her gaussian? ↑</p></p>
+path:  ['Artikler', 'Drowzee']
+block:  id='1a25579f-663d-4fd7-b74d-2d1824765efb', title='📚 Kva er QEEG?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>quantitative EEG betyr at du tar eeg signala og behandla dei med en datamaskin</p></p>
+path:  ['Artikler', 'Drowzee']
+block:  id='b9df64b1-c4b3-4905-87dc-cdb0abb88c29', title='📚 Kva er flatmap/mergeMap'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er flatmap/mergeMap<div><p>gir deg mulighet til å returnere en Observable og flatmappen sende resultatet fra den vidre. :)</p><p>flatMap og mergeMap er det samme!</p>See link to get content</div></div>
+path:  ['rxjs in drowzee', 'Drowzee']
+block:  id='9feb780d-ac18-4a9a-8d32-f1caea66aeab', title='📚 Hva er Thalamus?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Portvokter mellom sansesignaler og de mer avanserte områdene i hjernen.</p><p>Luktesans er den einaste sansen som ikkje går gjennom thalamus, men går direkte til følelsessenteret.</p></p>
+path:  ['Sov Godt', 'Bøker']
+block:  id='fa4cdc77-720f-4af8-acb9-8c73fe4a8025', title='📚 __Kva betyr ODE?__'
+path:  ['Laplace', '4K', 'Skule (nossr)']
+block:  id='d508984e-1328-4bb7-a052-66ec9c6dd5c0', title='📚 Kva er retardasjon?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er retardasjon?<div><p>Det motsatte av akselerasjon!!!</p></div></div>
+path:  ['Øving 1 (feil opgsett)', '']
+block:  id='63e373fe-f413-4e80-ab75-43259860c0b1', title='📚 Independent component analysis'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>At du identifiserar alle komponentar som bidrar til det komplette signalet og deretter får muligheten til å fjerne dei.</p><p></p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='920a6004-bbf0-458e-b44d-52f72a147405', title='📚 Tegn en __Wavelet__'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='e650e380-ddf4-4ff5-9622-d5c2f3e84037', title='__📚 Inverterende forsterker:__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  bulleted_list
+block.type:  image
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+answer:  <div class='toggle'>__📚 Inverterende forsterker:__<div><div class='column_list'><div class='column'><ul><li>See link to get content</li></ul><ul><li>Fungerar fordi strømmen er lik i R1 og R2</li></ul>See link to get content<p></p></div><div class='column'>See link to get content</div></div></div></div>
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='b3b52de6-6f81-4323-aec6-c53b53fba503', title='__📚 Brøkregelen (og huskeregel)__'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>__📚 Brøkregelen (og huskeregel)__<div>See link to get content<p>Apostrofen er jævlig hard og treff u-en først så v-en. V-en blir sterkare etterpå og blir opphøgd i andre.</p>See link to get content</div></div>
+path:  ['2 Derivatives', 'Calculus', 'Skule (nossr)']
+block:  id='9216a30b-b0d8-4fdd-bdf4-64453ba8a8e1', title='📚 Korson integrere e^kx?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson integrere e^kx?<div><p>Bruk substitusjon!</p><p>[todo]</p></div></div>
+path:  ['5 Integration', 'Calculus', 'Skule (nossr)']
+block:  id='f9a8bb2f-0016-47b3-94cb-9ae7130be6aa', title='📚 Formel for prikkprodukt'
+block.type:  text
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['12.3 Dot products', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='cfe6a0f5-8a64-4125-8783-e16b1763bee6', title='📚 __Redusert trappeform__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Redusert trappeform__<div><p>Redusert trappeform er en form av trappeform der 2 kriterier er oppfylt:</p><ol><li>Alle pivotelement er 1</li></ol><ol><li>Over alle pivotelement er det kun 0</li></ol></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='e7e42468-4a80-472c-9d68-7c44d4080049', title='📚 Forklar "rang"'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Forklar "rang"<div><p>Rang er dimensjonen til ei matrise</p></div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='82558e21-9aac-4e2e-88ba-cbe519afcf46', title='📚 __Kva betyr trappeform__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Kva betyr trappeform__<div><p>Trappeform er når alle __pivotelementa__ i en matrise er til venstre for pivotelementa under. Altså at det kun er 0 under pivotelementa</p>See link to get content<p></p></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='f1a09c6a-ed11-4ade-b250-767fe893e476', title='📚 Dei 5 klikkefaktorane'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>sårbarhet</li></ol><ol><li>nærhet</li></ol><ol><li>resonans (flow + presence)</li></ol><ol><li>likhet</li></ol><ol><li>sikkerhet</li></ol></p>
+path:  ['Click - The magic of instant connections', 'Bøker']
+block:  id='9c5d0530-ab38-45c7-85f2-9d8aeb42fa33', title='📚 __Derivert__ komplekst signal:'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p></p></p>
+path:  ['Komplekse signal', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='85a26f2b-f17d-41fb-9050-eae7901cdca9', title='📚 Kva er transkonduktans?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er transkonduktans?<div><p>Den deriverte av strømmen gjennom en transistorforsterker</p>See link to get content<p>I småsignalanalyse brukast dette for å lage en enkel lineær modell av forsterkinga. (istedet for å bruke den krumme linja)</p></div></div>
+path:  ['Transkonduktans - Når variasjonane er skikkelig små', 'Transistorforsterker', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='0d913bbe-beaa-429f-bc59-ab3b8024170f', title='📚 __Ikkje-inverterande forsterker:__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  quote
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Ikkje-inverterande forsterker:__<div><div class='column_list'><div class='column'><p>Ganske smart spør du meg</p><ul><li>Funksjon som vanlig forsterker med A</li></ul><ul><li>Brukar prinsipp om __spenningsdeling__ og at vp = vn</li></ul>See link to get content<p></p></div><div class='column'>See link to get content<p></p></div></div></div></div>
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='acafcf41-a483-454a-b368-0f32d8ca7db4', title='📚 __Integrert__ komplekst signal:'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Komplekse signal', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='0349dea1-27c2-4330-b45a-feaa5a9ae068', title='📚 Finn faseresponsen ↑'
+block:  id='2ec9ca64-d397-436a-be2e-c996b9245a03', title='📚 Formelen for fourier-koeffisientar?'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['11.1 Fourier Series', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='b7170ea5-3b1f-4320-83d6-13bf959218df', title='📚 __Kva betyr IVP?__'
+path:  ['Laplace', '4K', 'Skule (nossr)']
+block:  id='3ada20ad-a4d2-483a-86cd-7a8bcd04bae0', title='📚 Kva er vinkelfrekvens?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er vinkelfrekvens?<div><p>Et tall på kor fort noke roterar</p><p>når w=1 går den en gang rundt per sekund</p><p>når w=5 går den fem ganga rundt per sekund</p>See link to get content</div></div>
+path:  ['angular kinematics', 'Bevegelse', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='b14ced03-3f87-45ff-9aaa-7065ae74bd4b', title='📚 ka betyr MOQ?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>minimum order quantity</p></p>
+path:  ['Suntek window film (EASTMAN)', 'Manufacturers']
+block:  id='bd02f23b-a531-4ca5-acdb-12d609f30ad5', title='📚**Operant** vs **classical** conditioning:'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Classical conditioning: When A happens, B also happens </p><p>Operant conditioning: When I do A, B happens</p>See link to get content</p>
+path:  ['DZ terms']
+block:  id='80261393-068f-445c-a017-2f74f40f7f86', title='📚 learn grit!!!'
+path:  ['Random']
+block:  id='c0a7a2e6-bace-42af-9ba0-8671d9ca0d72', title='📚 def på arbeid'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>W = f * s</p></p>
+path:  ['6 - Work and kinetic energy', 'drittabell (nossr)']
+block:  id='a15eb064-fee1-48d5-a2fd-c9a33b7ef260', title='📚 Kva er productive meditation?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Ta situasjone der du er opptatt fysisk men ikkje mentalt, slik som løping, gåing, trening, og fokuser den mentale energien din på et spesifikt veldefinert professionelt problem.</p><p>Må bringe tankane tilbake når dei flyg — akkurat som i mindfulness</p></p>
+path:  ['Deep Work', 'Bøker']
+block:  id='d262ba58-d9a8-44fd-90fa-eadc4505a55e', title='📚 What does __concentric__ mean?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 What does __concentric__ mean?<div><p>Shortening of the muscles</p>See link to get content</div></div>
+path:  ['Therminology', 'Strength', 'Trening']
+block:  id='a844426e-ba33-43ab-82f4-9e328195f80c', title='📚 external internal rotation femur'
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='71aa749b-6574-4ef6-9564-0a71d41a6dda', title='📚 What does __eccentric__ mean?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 What does __eccentric__ mean?<div><p>Lengthening of a muscle.</p>See link to get content</div></div>
+path:  ['Therminology', 'Strength', 'Trening']
+block:  id='8a9b499f-a775-4362-900d-37739ee59e6c', title="📚 James Clear's 4 rules:"
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>Make it obvious</li></ol><ol><li>Make it attractive</li></ol><ol><li>Make it easy</li></ol><ol><li>Make it (immediately) satisfying</li></ol></p>
+path:  ['Atomic Habits', 'Bøker']
+block:  id='7b52f96f-f153-4996-a74d-fc949cbfaf49', title='📚 Når har vi nadir?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Omtrent 2 timer før vi vanligvis våkner.</p></p>
+path:  ['Sov Godt', 'Bøker']
+block:  id='a11d52ee-9bee-4523-8c2a-6df3bf8aa762', title='📚 __Unit step function (heaviside)__'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>Dinne funksjonen er enten 1 eller 0 basert på to inputs.</p></p>
+path:  ['6.3 Unit Step Function. Second Shifting Theorem.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='78e99313-0cfc-4a59-8f93-14500e576f38', title='📚 __Second shifting theorem (t-shifting)__'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Second shifting theorem (t-shifting)__<div>See link to get content<p>Og inversen:</p>See link to get content<p>Viss det er vanskelig å få f(t) på form f(t-a) kan du bruke denne:</p>See link to get content<div class='toggle'>Eksempel 1 der e måtte regne om masse shit til f(t-1) osv<div>See link to get content</div></div><div class='toggle'>📚 kva er laplaceinversen av 1/(s+2)^2?<div><p>bruke første shifting theorem!</p>See link to get content</div></div><div class='toggle'>Eksempel 2<div>See link to get content</div></div><div class='toggle'>Eksempel 3 en RC-krets ⚠️ pågår ⚠️<div>See link to get content</div></div><p></p></div></div>
+path:  ['6.3 Unit Step Function. Second Shifting Theorem.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='38d76ee4-5d5c-4eea-9697-491ca4ebff2d', title='📚 Korson identifiserar du EMG-signal:'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Du ser det som utbrudd av 20-40hz signal.</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='5d4bc3ac-d48c-472c-8630-e41a3e16d9e6', title='📚 what does _churn_ mean?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>How fast users hop off. Often percentage of customers that cancel subscription within a time frame.</p></p>
+path:  ['Hacking Growth', 'Bøker']
+block:  id='a73a20c1-cc60-4c80-a002-d657d263517a', title='📚 Kva betyr dette diagrammet?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  callout
+'NoneType' object is not iterable
+'Block' object has no attribute 'title'
+answer:  <p>📚 Kva betyr dette diagrammet?</p>
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='ae06b4fe-746c-46ef-8a29-d16ef817efd3', title='📚 __Ladning i en kondensator__'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Ladning i en kondensator__<div>See link to get content<p></p></div></div>
+path:  ['Kondensator', 'Elektronikk', 'Skule (nossr)']
+block:  id='ffaf5ccc-6c1f-4eb9-844b-4ffa5e6666f9', title='📚 Kva er en __trace?__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er en __trace?__<div><div class='column_list'><div class='column'><p>En trace et __sett av punkter__ du får ved å kutte en tredimensjonal figur med et plan.</p><p>Vanlige traces inkluderer __xy-tracen__, og dei andre koordinatplana. Trace er ei todimensjonal kurve.</p><p></p></div><div class='column'>See link to get content<p></p></div></div></div></div>
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='7c69cd17-9854-497c-8784-f7856d9c6e70', title='📚 __Kva er den partiellderiverte?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 __Kva er den partiellderiverte?__<div><p>Når du har en __multivariabel funksjon__ og har lyst til å finne den deriverte i __retninga av en enhetsvektor,__ kan du bruke partiellderiverte.</p><p>Det er som å kutte funksjonen med et plan (lage trace) i en av elementærretningane, og måle den deriverte på den.</p>See link to get content</div></div>
+path:  ['13.4 - Partial derivative', 'Kapitler']
+block:  id='002e7e52-4d60-49c2-8372-7d5e8b7a4e54', title='📚 __Korleis__ finne den partiellderiverte?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 __Korleis__ finne den partiellderiverte?<div><p>Du har funksjonen:</p>See link to get content<p>Og vil vite den partiellderiverte med hensyn på sei x.</p>See link to get content<p>__Steg 1:__ frys alle variabla som ikkje skal bli derivert:</p>See link to get contentSee link to get content<p>__Steg 2:__ deriver den gjenståande funksjonen og du har den partiellderiverte.</p>See link to get content<p>Her kan du sette y = det du vil for å flytte tracen, og x = det du vil for å velge et punkt på tracen å finne stigningstallet til.</p>See link to get content</div></div>
+path:  ['13.4 - Partial derivative', 'Kapitler']
+block:  id='43f3b99b-a5ac-4f39-a835-bcbecc6a420c', title='📚 Huskeregel for delvis integrasjon'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Huskeregel for delvis integrasjon<div><p>① ta integralet av den deriverte av en funksjon og funksjonen</p><p>② dette = dei to funksjonane MINUS revers fra ista</p>See link to get content<p>↑ en delvis og en vanlig står sammen. Den vanlige drømmer om et liv der begge er vanlige og alt er normalt, mens den delvise egentlig drømmer om det motsatte av det som er no.</p></div></div>
+path:  ['8 Integrasjonsteknikker', 'Calculus', 'Skule (nossr)']
+block:  id='f7600c3c-e171-4d60-bc8a-67e26494f400', title='📚 off-topic, bevis det her '
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 off-topic, bevis det her <div><p>inversen til et tall kan bli funne ved å måle krumning etter du har satt tallet som radium</p>See link to get content</div></div>
+path:  ['12.9 - Curvature and normal vectors', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='6c96fcd2-0edf-424c-9feb-977534cccbd9', title='📚 Utled formelen for krumning'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Utled formelen for krumning<div><p>Gitt at du har en vektorfunksjon r(s) der s er buelengde</p>See link to get content<p>Krumninga er lengda av den blå differansevektoren!</p>See link to get content<p>Det er ikkje alltid så praktisk å bruke buelengde som parameter. Ofte er det _t_ istedenfor. Vi må finne en måte å konvertere.</p>See link to get content<p>Nevneren her er fart = r'(t)</p><p>Vi får:</p>See link to get content<p></p></div></div>
+path:  ['12.9 - Curvature and normal vectors', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='33556b29-f42f-4f0a-9234-e25b1b5b209d', title='📚 Kva er en __sylinder?__'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er en __sylinder?__<div><div class='column_list'><div class='column'><p>En __sylinder__ i matteverdenen er ikkje det vi vanligvis tenker på mtp sylinder. I matteverdenen er en sylinder __flata som blir generert av alle linjer som treffe kurva og er parallell med ei linje l.__</p><p></p></div><div class='column'>See link to get content</div></div></div></div>
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='6cc19232-77d4-4d53-a81f-7e6adfe2baba', title=' 📚 Kva er __determinanten__ intuitivt?'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>Determinanten til ei matrise er __skaleringsfaktoren__ arealet til et område får etter en lineær transformasjon av matrisa.</p></p>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='5faf974a-e309-4eba-b2cf-ffb50557a08c', title='📚 Null space/ kernel [write]'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  bookmark
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Null space/ kernel [write]<div><p>Alle vektorane som blir 0?</p>See link to get content</div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='61ede3f8-2152-4c56-8800-30711fb8f808', title='📚 Kva betyr ordet _bus_'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva betyr ordet _bus_<div><p>Kjem fra _omnibus_, betyr __for alle__</p></div></div>
+path:  ['Datamaskiner og digitalteknikk', 'Skule (nossr)']
+block:  id='104d80e4-0f8e-4e77-b2db-fa1c85417657', title='📚 Kva er en turingmaskin?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er en turingmaskin?<div><p></p></div></div>
+path:  ['Datamaskiner og digitalteknikk', 'Skule (nossr)']
+block:  id='ff2291df-bf39-4620-bf48-3ca7f148603b', title='📚 __Kva er ei matrise?__'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Ei matrise er fleire __vektorar satt sammen.__ Enten radvektorar eller kolonnevektorar.</p>See link to get content</p>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='eb736aab-9517-4e74-9c55-152136efee7b', title='📚 Kva er church-turing tesa?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er church-turing tesa?<div><p></p></div></div>
+path:  ['Datamaskiner og digitalteknikk', 'Skule (nossr)']
+block:  id='5e466943-989f-43f4-9a65-7178ae0addad', title='📚 __Energi i en kondensator__'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Energi i en kondensator__<div>See link to get contentSee link to get content<p></p></div></div>
+path:  ['Kondensator', 'Elektronikk', 'Skule (nossr)']
+block:  id='87d8dfab-fc0b-4730-a6d4-56e72e0eec22', title='📚 R PI kva skjer?'
+block.type:  text
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><div class='column_list'><div class='column'>See link to get content<p></p></div><div class='column'>See link to get content</div></div></p>
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='3d6320fc-1cb2-483c-819e-011a820d8ee6', title='📚 __Visualiser__/forklar prikknotasjon for spoler: '
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p></p><p></p></p>
+path:  ['Gjensidig induktans', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='62155de4-01c1-474f-9436-63b9c4fa96ec', title='📚Formelen til gjensidig induktans __M__'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚Formelen til gjensidig induktans __M__<div>See link to get content<p></p></div></div>
+path:  ['Gjensidig induktans', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='0845483c-c80b-4b1c-8222-1968adc6acc8', title='📚 Laplace av hyperbolske funksjoner'
+block.type:  text
+block.type:  image
+block.type:  to_do
+'NoneType' object is not iterable
+answer:  <p>See link to get contentSee link to get content</p>
+path:  ['6.1 Laplace transform', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='e5d95c66-2692-4325-ae92-5758516cb465', title='📚 Kva betyr laminær strømning?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva betyr laminær strømning?<div><p>Laminær kjem av at fluidlinjene blir pene og lagdelte.</p><p>Farta må være __liten__ for at det skal være laminær strømning.</p>See link to get content</div></div>
+path:  ['Fluidfriksjon', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='7dd1f63b-b9f9-4a20-9b3c-1e36303d2d4b', title='📚How do you pronounce scarce?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>skehrs</p></p>
+path:  ['DZ terms']
+block:  id='972f10c1-5b3f-4283-b2ff-00c0ea061e6e', title='📚what is minimal pair test?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>vekkje</p></p>
+path:  ['Fluent Forever', 'Bøker']
+block:  id='688ef4fd-ad4b-4c6f-b63c-72b3a788065e', title='📚 What is Hebbs law?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Neurons that fire together, wire together</p></p>
+path:  ['Fluent Forever', 'Bøker']
+block:  id='d0657756-b79e-41bb-ae85-6b5358a75cf2', title='📚formel for potensiell energi gravity'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><p>Gravitasjonspotensialet:</p>See link to get content</p>
+path:  ['7 - Potential energy and energy conservation', 'drittabell (nossr)']
+block:  id='5494fbac-0ca5-4d64-a4e0-645406e21787', title='📚 Kva står tx og rx for?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>transmit og receive!</p></p>
+path:  ['JIFHUB', 'projects']
+block:  id='7e088c8d-42bb-4d35-a54d-19fcf4321c37', title='📚 Kva står GPIO for på ESP32?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>general purpose input output</p><p></p></p>
+path:  ['ESP32', 'JIFHUB', 'projects']
+block:  id='b1a33943-dab3-4765-9ef7-4cec8b7a05e9', title='📚Koffor e det viktig med boredom?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>For å øke limiten med kor masse deep work du klarer. For å slutte å gjer deg avhengig av små stimuli kvar gang det blir et par minutter ledig.</p></p>
+path:  ['Deep Work', 'Bøker']
+block:  id='b4275c68-b710-49b4-92ba-60f337b53fc4', title='📚 Fortell kort historia til Netflix'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Starta i 1997 med DVD i post. Visste heile tida at dei hadde lyst å starte med streaming. Streaming var 60% av businessen i 2012</p></p>
+path:  ['Blitzscaling', 'Bøker']
+block:  id='29e58462-cee2-4dd1-9d7a-555502f5516d', title='📚What is the hardware equivalent to AWS?: China'
+path:  ['Blitzscaling', 'Bøker']
+block:  id='26967129-cc92-40c1-b851-5e2206c281c6', title='📚 Korson sletta du en array?'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='b4eeb8a8-b6d0-4f89-8fcd-7d59ed712ced', title='📚 korson få lengda av en array?'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='0529158e-7070-4d87-ba42-b34665891321', title="📚 what is ‣' success formula?"
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Every skill you aquire doubles your chances of success</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='33b5e742-c97c-401a-a915-75f8c96f4dd2', title='📚 ka betyr proximal og distal'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>proximal e opp fordi det er __nært__ haudet</p><p>distal e ned fordi det har __distanse__ fra haudet.</p></p>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='3be287d4-b03c-4994-ada2-40ee110cfab4', title='📚 Ka e thoracic spine? [memo]'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>dei 12 øverste ryggvirvlane</p>See link to get content</p>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='bfd29254-c430-49ed-a027-3a02d77ed6ec', title='📚 5 simple steps of deadlift'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>__Stance__. Vær 2.5 cm fra baren (der den er glatt)</li></ol><ol><li>__Grep.__ Ikkje bøy knea og grip på knurlen</li></ol><ol><li>__Leggbein.__ Bring leggane fram til baren og knea ut i albuane</li></ol><ol><li>__Squeeze.__ Skvis brystet opp. Rompa må ikkje dette ned.</li></ol><ol><li>__Drag__. Drag baren opp langs beina. Chest opp.</li></ol></p>
+path:  ['Deadlift', 'Strength', 'Trening']
+block:  id='7d6babe6-ff02-46b5-bb16-2b3a5a08de81', title='📚 What are the hip adductors?'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What are the hip adductors?<div>See link to get content<p>helps for internal rotation of femur</p></div></div>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='b90b6a6e-16f3-4a63-8749-c92aac5701d9', title='📚 ka som e feil her? ↓'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 ka som e feil her? ↓<div>See link to get content<p>📔 Femur e ikkje heilt parallelle med føtter! Flytt føtter litt sammen eller push ut knea</p></div></div>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='446a3d11-d726-47df-94c9-c75db39cc241', title='📚 << står for: __stream insertion operator__.'
+path:  ['C++', 'Dev']
+block:  id='fee03ee9-90d6-42f0-b76c-d5c76d6c8d77', title='📚 >> står for: __stream extraction operator__.'
+path:  ['C++', 'Dev']
+block:  id='92715c1a-8013-43f4-9d3c-d96bd3ce32f0', title='📚 How to __initialize a struct?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 How to __initialize a struct?__<div><p>Du må tippe riktig rekkefølge</p>See link to get content</div></div>
+path:  ['C++', 'Dev']
+block:  id='f8377709-3ec2-4630-9fc8-839f5728f6df', title='📚 Slett branch lokalt OG på remote'
+block.type:  toggle
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Slett branch lokalt OG på remote<div>See link to get content</div></div>
+path:  ['Git', 'Dev']
+block:  id='b8cfad34-1909-4b3d-8d49-1659525bdb84', title='📚 forskjellen på `/bin` og `/sbin`'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>bin e alle programma som trengs før `/usr` blir mounta</p><p>sbin betyr __super__ bin altså program som treng root</p></p>
+path:  ['Linux', 'Dev']
+block:  id='25fbc113-fa29-4e8b-bbef-f6adffb2fcc6', title='📚 Kva blir SMR også kalla?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Blir også kalla _rolandic mu_ og "wicket rythms"</p></p>
+path:  ['Artikler', 'Drowzee']
+block:  id='ae451e7e-4840-4d85-84ea-9f2a2c2c8ca7', title='📚 Kem e en pioneer innen SMR?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Barry Sterman utførte eksperiment på katter.</p>See link to get content<p></p></p>
+path:  ['Artikler', 'Drowzee']
+block:  id='72ad553f-7863-4632-af39-006f986fcf8a', title='📚 koffor heite ditte her gaussian? ↑'
+block:  id='c5c4539b-4287-45d2-ac10-70b7c7f29250', title='📚 Newtons lover memnonic [draw nr 3]'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Newtons lover memnonic [draw nr 3]<div><div class='column_list'><div class='column'><p>Første:</p>See link to get content<p></p></div><div class='column'><p>andre:</p>See link to get contentSee link to get content</div></div></div></div>
+path:  ['Krefter (inkl friksjon)', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='ff6cf8b3-fcd0-493b-a00e-b5ecd219a2bb', title='📚 __Bevaring av mekanisk energi__ (formel)'
+block.type:  text
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='22a391fc-7388-4f2f-ac0d-df96fb3b1a3f', title='📚 kva er formelen for kinetisk energi?'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 kva er formelen for kinetisk energi?<div>See link to get content</div></div>
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='53c2624d-898a-4ee1-801e-7e1e080a34e5', title='📚 Forklar forskjellen på tidsdomeneanalyse og tids-frekvens-domene-analyse'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Tidsdomenet ser kun på verdiar basert på tid. Tidsoppløsninga er derfor veldig god.</p><p>Tids-frekvens-doment ser på spesielle frekvensar over tid. Kan gi meir interessant data men tidsoppløsninga går ned.</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='9c120d54-ecb3-4e71-b332-f395862efa34', title='**📚** Ka betyr å ta en __epoch?__'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Basicly å kutte ut et tidsvindu.</p>See link to get content<p>Kan bli brukt både vidre både for ERP og tidsfrekvens</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='717c95f9-9d3b-4916-a278-678bc38743f5', title='📚 What is Cognitive Electrophysiology (6)'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Kognitiv elektrofysiologi er lære om korson kognitive funksjoner (persepsjon, språk, minne, følelser, atferd og sosial kognisjon) blir påvirka av elektrisk aktivitet av nevroner.</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='3fbf13f8-d325-4fbc-8f73-039f39d5ddaf', title='📚 2 growth limiters (har memo)'
+block.type:  text
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><ol><li><p>📚PMF means: Having a market and a product that satisfies a demand in that market</p></li></ol><ol><li><p>📚What is the hardware equivalent to AWS?: China</p><p></p></li></ol></p>
+path:  ['Blitzscaling', 'Bøker']
+block:  id='cb1f6c1a-7bd9-4401-8ce6-b5c14862c1d0', title='📚 __Op-ampen sine 3__ gylne reglar:'
+path:  ['Op-Amp', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='cb9b5364-ef13-49a6-a757-002d5a4a5c2e', title='📚 Kva er systemfunksjon på engelsk?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>transfer function</p></p>
+path:  ['Systemfunksjon og sprangrespons', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='81191464-fe3a-496f-b92f-8c9e06ec94d1', title='📚 When did Alexander the great live?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>About 400 years before christ.</p></p>
+path:  ['01 - Alexander versus Hitler', 'Episodes']
+block:  id='9448ab96-1f9c-47ce-8526-25ba324e4eed', title='📚 Kva er et emitter-follower system?'
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='45683bdf-fe8e-4230-aa3f-9429ed948e1c', title='📚 Formel for skalarkomponenten (2 måtar)'
+path:  ['12.3 Dot products', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='c1033b04-8e87-4e9b-9ef6-cb8d5adcb006', title='📚 How to find the __directional derivative__?'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>You'll have to figure out the how big part of you direction lies in the direction of each of the partial derivatives and add them together. Real easy!</p><p>One way to do this is by making a vector with the components fx and fy, and take the dot product with a __unit vector__ in you direction.</p>See link to get content<p>The vector with fx and fy as components is called the __gradient.__</p></p>
+path:  ['13.6 - Directional derivatives and the Gradient Δ', 'Kapitler']
+block:  id='cabaf9d4-461e-4b50-a496-3c4ef6c763cd', title='📚 The __discriminant__ of a function'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  page
+block.type:  image
+answer:  <div class='toggle'>📚 The __discriminant__ of a function<div><p>Diskriminanten er</p>See link to get content<p>Og er determinanten av hessian matrisa</p>See link to get contentSee link to get content</div></div>
+path:  ['13.8 - Maximum/minimum problems', 'Kapitler']
+block:  id='b1b521d1-e807-4859-9a60-b27dc90726d4', title='📚 Kva er __double angle__ formulasene?'
+block.type:  toggle
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er __double angle__ formulasene?<div>See link to get content</div></div>
+path:  ['1 Trigonometric shit', 'Calculus', 'Skule (nossr)']
+block:  id='1d32e9c7-6dfd-4ce1-a0a4-46c70f32e675', title='📚 Kva er et rasjonalt tall?'
+path:  ['Delbrøksoppspalting', 'Calculus', 'Skule (nossr)']
+block:  id='652882f2-a6d1-4c76-afc9-b0f9f2454546', title='📚 Formel for projeksjonsvektoren (2 måtar)'
+path:  ['12.3 Dot products', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='549fd8f8-be3d-4d83-bd42-a2e207f8cd8f', title='📚 Ka betyr ∈ i matte?'
+path:  ['13.2 Graphs and Level curves', 'Kapitler']
+block:  id='6c55be93-6c53-41bd-87a6-b316877f0dfc', title='📚 __Kvifor er dette sant? ↑__'
+block:  id='8bb39681-6de0-40dc-852a-5fc3b82aab12', title='📚 **Distanse fra punkt til plan**'
+block.type:  text
+block.type:  bookmark
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  page
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  page
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>Nøkkelen for å finne distanse fra punkt til plan er å tenke projeksjonsvektor og skalarkomponent. Meir info på ‣</p>See link to get contentSee link to get content<p>TODO gjer 102 på nytt</p><p>Dinne forklare korson bruke proj og scal for å finne lengde til plan:</p>See link to get content<p>BRA LF HER:</p>See link to get content<p></p></p>
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='b7f9f032-3e85-407a-a58b-c3f4a5e32dd3', title='📚 ↑ Korson laga du dinne funksjonen?'
+block:  id='6b627655-7af3-4baf-9dbe-71f4ea101440', title='📚 Finn __enhetstangentvektoren__ til en vektorevalurert funksjon'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Finn __enhetstangentvektoren__ til en vektorevalurert funksjon<div>See link to get content<p>Her ser vi forskjellen (i rødt) av verdien til r(t) ved t1 og t2</p>See link to get content<p>Når denne differansen går mot 0 får vi den deriverte.</p><p>Det viser seg at dette blir en __tangent__ til kurva.</p>See link to get content<p>Om vi vil ha en **enhets**tangentvektor er alt vi treng å gjere å derivere på lengda av seg sjølv:</p>See link to get content<p></p></div></div>
+path:  ['12.6 Calculus of Vector-Valued functions', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='17798ad4-56f2-4435-b54f-c342e780378d', title='📚 Bevis ligning til et plan'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Bevis ligning til et plan<div><p>Først tek vi for oss den situasjonen at vi har et plan som går gjennom __origo__. Då har vi at alle punkt på planet blir også __posisjonsvektorar.__</p><p>Posisjonsvektoren er gitt ved</p>See link to get content<p>Normalvektoren er gitt ved</p>See link to get content<p>Tenker vi intuitivt på et plan, og at posisjonsvektoren ligg i planet, vil vi ha denne __posisjonenvektoren__ til å bli vinkelrett på __normalvektoren__ ut av planet. Dette kan vi enkelt vise med</p>See link to get content<p>som gir oss ligningen for et plan</p>See link to get content<p>Når planet __ikkje__ er i origo, må vi finne en ny vektor som ligg i planet. Vi må då trekke fra en vektor som fører oss opp til planet.</p><p>Då får vi en ny vektor:</p>See link to get contentSee link to get content<p>Og når vi nå tar prikkproduktet får vi</p>See link to get contentSee link to get content</div></div>
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='eac66944-0c34-47b2-8a95-c1657e6416c6', title='📚 __Arrow notation__ for domain and range:'
+path:  ['13.2 Graphs and Level curves', 'Kapitler']
+block:  id='6853e70d-2774-45f3-b10d-ec84056a58f5', title='📚 What is a __non-homogeneous__ DE?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>When there is a function on the right hand side and it is not 0.</p><p>Homogeneous second order DE:</p>See link to get content<p>Non-homogeneous:</p>See link to get content<p></p></p>
+path:  ['Differential equations. Diffligninger', 'Calculus', 'Skule (nossr)']
+block:  id='7990df42-994f-4c8d-8751-f2af999b0aca', title='📚 __Trappeform og redusert trappeform på engelsk__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Trappeform og redusert trappeform på engelsk__<div><p>Row echelon form og reduced row echelon form</p><p></p></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='137e047b-2ce7-4756-8af0-1df88f6c40a6', title='📚 Kva er en lineær transformasjon?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er en lineær transformasjon?<div><p>Spesifikt. Når du har en vektor og gangar ei matrise med den vil det skje en lineær transformasjon.</p><p>__En lineær transformasjon__ er en operasjon som endrar det vanlige rutenettet til å bli forandra.</p><div class='toggle'>gifs<div><div class='column_list'><div class='column'>See link to get content</div><div class='column'>See link to get content</div></div><p></p><p></p></div></div><p></p><p></p></div></div>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='171a05f7-e80c-43cc-8416-165e7346fe0c', title='📚 Koffor heiter det __komplekst tall?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Koffor heiter det __komplekst tall?__<div><p>_Kompleks_ betyr når noke er sammensatt av fleire ting. For eksempel et _bygningskompleks._</p></div></div>
+path:  ['2 - Komplekse tall', 'Kapitler']
+block:  id='c872d3e6-eaa4-4776-998d-b345414e8e83', title='📚 Definer addisjon og skalarmultiplikasjon for polynomvektorrommet'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Definer addisjon og skalarmultiplikasjon for polynomvektorrommet<div><p>Først definerar vi ka et polynom er:</p>See link to get content<p>Så er det berre å tenke seg til desse to:</p>See link to get content</div></div>
+path:  ['6 - Vektorrom', 'Kapitler']
+block:  id='c66dffd3-716e-42c1-9abf-406e676cd535', title='📚 __Kva er pivotelement i ei matrise__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Kva er pivotelement i ei matrise__<div><p>__Pivotelement__ i ei matrise er det elementet som __ikkje er 0__, og __lengst venstre__ i rada.</p>See link to get content<p></p></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='cffac269-5e09-40c1-aca1-50f82fca2e6f', title='📚 Kva handlar lineær algebra om? [write]'
+block.type:  text
+block.type:  quote
+'NoneType' object is not iterable
+block.type:  quote
+'NoneType' object is not iterable
+block.type:  quote
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Handlar om line're ting som plutselig kjem sammen og blir jævlig riktig.</p><p>Handlar om ligningssett med lineære vektorar og plan. Det handlar om __lineære transformasjonar__ i uendlig mange plan</p><p>Handlar om lineær optimalisering. Finne ut kor mange epler, falafler og lunsjpakker eg måt ete for å oppnå perfekt balanse.</p><p>kvantedatamaskiner</p></p>
+path:  ['Linear Algebra', 'Skule (nossr)']
+block:  id='39e1ec03-c8a8-46ea-89be-0a24d1c202ab', title='📚 Finne __n-terota__ av et komplekst tall'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  page
+block.type:  sub_header
+'NoneType' object is not iterable
+block.type:  toggle
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Sei at du har et komplekst tall du vil finne n-terota av. Feks. med tanke på ei ligning som denne:</p>See link to get content<p>See link to get content<p>Einaste sammenhengen e kunne sjå her var at vinkelen åpna seg litt og litt. Prøvde å regne ut for fleire potensar, og ting fortsatte å stemme, heilt til eg kom til 7erpotensen. WTF????</p>See link to get content</p>See link to get content<p>Algebraens Fundamentalteorem sei oss at alle polynomer har ei løsning.</p>See link to get content<p>Vi begynner med å skrive w på __polar form__, med vilkårlig (m) antall omdreiningar.</p>See link to get content<p>Så tar vi rett og slett n-terota av dette. (er ikkje så vanskelig skal du sjå)</p>See link to get content<p>Setter vi m = 0, har vi den første (mest vanlige å bry seg om) løsninga</p>See link to get content<p>Vidre viser det seg at vi får fleire løsninger når vi øker m. Det er ikkje vits i å ha m meir enn n-1, fordi då går berre den rundt til seg sjølv igjen.</p><p>Dette gir meining med tanke på ‣ som sei at det fins n stk svar.</p>See link to get content<p></p></p>
+path:  ['2 - Komplekse tall', 'Kapitler']
+block:  id='75723959-56f9-4832-906a-0600fd6e7ace', title='📚 Korson beregne inversen av ei matrise?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Du har ei matrise __A__</p>See link to get content<p>Korson kan vi finne den her da? Svaret er __totalmatrise__ og __gausseliminering__! 🎉</p>See link to get contentSee link to get contentSee link to get content<p>↑ Den er klar til å bli gausseliminert. Når ferdig får du inversen til høgre.</p><p></p></p>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='8304e3fe-8e6d-456f-8ac0-85611d13fd2e', title='📚 Vektorrom er en jævlig: heksekunst!!!!!!!!!!!!!'
+path:  ['6 - Vektorrom', 'Kapitler']
+block:  id='818bab02-ddef-4cc9-a9dc-fcecfe9e29b3', title='📚 Definisjon av __vektor__ mtp vektorrom.'
+block.type:  text
+block.type:  quote
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>En __vektor__ er et element av et __vektorrom__</p><p>↑ haha teit ass</p></p>
+path:  ['6 - Vektorrom', 'Kapitler']
+block:  id='1a7f60eb-1bdd-4511-9bcb-1f3f468ea105', title='📚 Kva er "kolonnerom" til en matrise?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er "kolonnerom" til en matrise?<div><p>Det lineære spennet til kolonnane i en matrise.</p></div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='1652bf33-1c5f-4ca3-b9e2-cede72ad001d', title='📚 __Dei 8 aksiomane for vektorrom__'
+block.type:  text
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><ol><li><p>(a+b)+c = a+b+c</p><p>Parantesar i addisjon er unødvendig dritt.</p><div class='toggle'>Eksempel på operasjon som ikkje er assosiativ<div>See link to get content</div></div></li></ol><ol><li><p>u + v = v + u</p><p>Rekkefølge har ingenting å sei i addisjon av vektorar</p></li></ol><ol><li><p>u + 0 = u</p><p>0-vektoren blir sagt å være identitetselementet til vektoren, fordi du får vektoren når du gangar med identitetselementet.</p></li></ol><ol><li><p>u + (-u) = 0</p><p>Du kan alltid ta den motsatte og få 0</p></li></ol><ol><li><p>(ab) * u = a * (bu)</p><p>Parantesar har ikkje en dritt å sei når du gangar</p></li></ol><ol><li><p>1 * u = u</p></li></ol><ol><li><p>a * (u + v) = au + av</p><p>Når du gangar et tall med vektorar addert, kan du _distribuere_ tallet.</p></li></ol><ol><li><p>(a + b) * u = au + bu</p><p>Når du gangar en vektor med tall addert, kan du _distribuere_ vektoren.</p></li></ol></p>
+path:  ['6 - Vektorrom', 'Kapitler']
+block:  id='16d56ee0-6322-4a8b-9a6d-7350f6b026b0', title='📚 Kva er determinanten til ei 3x3-matrise?'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er determinanten til ei 3x3-matrise?<div>See link to get content<p>Determinanten blir gitt ved</p>See link to get content<p>(veit ikkje _koffor_ enda)</p><p>Arealet av kuben blir</p>See link to get contentSee link to get content</div></div>
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='41eb239c-6e88-4d3a-8d1f-6532282aed60', title='📚 Intuitivt koffor stemmer denne ligninga? ↑'
+block:  id='132af7ab-c8a1-41e7-b973-1f499abf6656', title='📚 Ka e en synapse vs nevroner?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>nevron er nevron</p><p>synapse er koblinga mellom nevroner</p></p>
+path:  ['ANN', 'Skule (nossr)']
+block:  id='88f10c2e-3880-42db-8512-1ffc5de9ce70', title='📚 kva er en __Periodic function__?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>En f(x) som er definert for alle f(x) og har en periode (kalla __p__) som er slik:</p>See link to get contentSee link to get content<p></p></p>
+path:  ['11.1 Fourier Series', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='eded8ccf-1e4c-41ce-a1ac-c8f2b0d1b4a5', title='📚 ka faen e det her?'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='c26e09c6-7cf1-402e-b202-e6c4c69c9801', title='📚 __Formelen for calculus sitt fundamentalteorem: [write__'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>sadifjosadfij</p></p>
+path:  ['The fundamental theorem of calculus', 'Calculus', 'Skule (nossr)']
+block:  id='fa910a99-d5c6-4af6-b9b5-135c41a2bd83', title='📚 koffor funka ikkje leage of nations?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>For idealistisk, tok ikkje i beretning at økonomiske sanksjona ikkje var nok, USA var ikkje med, folk ville ikkje være med fordi då måtte dei gi slipp på kolonia(kanskje??)</p></p>
+path:  ['03 - The organization of peace', 'Episodes']
+block:  id='428d0c74-b9e6-4f27-8dc1-32fc02cbbc98', title='📚 Koffor vil dette __ikkje__ funke? ↑'
+block:  id='fc6386cd-a934-476f-bb2b-d1ab51efcc1c', title='📚 Kva er formelen for et __sinussignal?__'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er formelen for et __sinussignal?__<div>See link to get content</div></div>
+path:  ['Komplekse signal', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='81b738b4-adf0-4838-94f5-c1edacbe16bd', title='📚 Ting som øka og minka koplingsfaktoren'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  column
+block.type:  image
+answer:  <div class='toggle'>📚 Ting som øka og minka koplingsfaktoren<div><div class='column_list'><div class='column'>See link to get content</div><div class='column'>See link to get content</div></div></div></div>
+path:  ['Gjensidig induktans', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='87d8af4f-6bd5-4ebb-9be3-4e6f64a91935', title='📚 Skriv ned dei __4 bevegelsesligningane:__'
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+'NoneType' object is not iterable
+block.type:  toggle
+'NoneType' object is not iterable
+block.type:  toggle
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Skriv ned dei __4 bevegelsesligningane:__<div>See link to get content<div class='toggle'>1 memo<div>See link to get content</div></div><div class='toggle'>2 memo<div>2 memo</div></div><div class='toggle'>3 memo<div>3 memo</div></div><div class='toggle'>4 memo<div>4 memo</div></div></div></div>
+path:  ['Bevegelse', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='ea83eeb6-b13f-4018-b2bf-35dd61cbd60a', title='📚 what is a __trigonometric series__?'
+block.type:  toggle
+block.type:  image
+answer:  <div class='toggle'>📚 what is a __trigonometric series__?<div>See link to get content</div></div>
+path:  ['11.1 Fourier Series', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='dcdf2bcd-1850-4f20-846d-c4d42a923548', title='📚 kva er laplaceinversen av 1/(s+2)^2?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 kva er laplaceinversen av 1/(s+2)^2?<div><p>bruke første shifting theorem!</p>See link to get content</div></div>
+path:  ['6.3 Unit Step Function. Second Shifting Theorem.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='60c7126c-5732-4a66-a2a0-fa9e4a769514', title='📚 3 fordelar med Laplace for diffligninger'
+block.type:  toggle
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 3 fordelar med Laplace for diffligninger<div><ol><li>Du treng ikkje å løse en homogen difflign før du kjøre på med en ikkjehomogen difflign.</li></ol><ol><li>initialbetingelsar blir tatt vare på automatisk</li></ol><ol><li>Kompliserte outputs (r(t)) blir tatt vare på jævlig lett.</li></ol></div></div>
+path:  ['6.2 Transforms av integral og deriverte.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='95683a7a-9109-4d07-bb54-f6a541c375bc', title='📚 what is the fundamental period?'
+block.type:  toggle
+block.type:  image
+answer:  <div class='toggle'>📚 what is the fundamental period?<div>See link to get content</div></div>
+path:  ['11.1 Fourier Series', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='f4692f8c-16c4-4ded-9d53-dc006a78b408', title='📚 What is impulse? (norsk: kraftstøt)'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What is impulse? (norsk: kraftstøt)<div>See link to get content<p></p></div></div>
+path:  ['Impuls (momentum)', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='9a1e7fba-699a-48aa-83ef-2cb644008748', title='📚 What is momentum? (norsk: bevegelsesmengde)'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What is momentum? (norsk: bevegelsesmengde)<div>See link to get content<p>Summen av alle krefter på en partikkel er det samme som den **integrerte** av farta ganger massen</p></div></div>
+path:  ['Impuls (momentum)', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='34d982e6-5ee1-410e-9c0a-cdbbf407f5e2', title='📚 Kva er PFK (Passiv fortegns-konvensjon)'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Vi har bestemt at strømmen går fra høg spenning til lav spenning</p><p>Vi har også berstemt at når ei kilde får en strøm til å gå fra lav spenning til høg spenning så __genererar__ den strøm. Mens omvendt så __forbrukar__ den strøm.</p>See link to get content<p></p></p>
+path:  ['Effekt i kretser (PFK)', 'Elektronikk', 'Skule (nossr)']
+block:  id='38c18cd7-8232-4676-924f-9e265a7f12ca', title='📚 gjer den her på nytt'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>[https://brilliant.org/practice/angular-kinematics-at-the-racetrack/?p=3](https://brilliant.org/practice/angular-kinematics-at-the-racetrack/?p=3)</p></p>
+path:  ['angular kinematics', 'Bevegelse', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='733c17fc-59b2-4d0f-b0c4-9273e8df228d', title='📚 what is power series in math?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 what is power series in math?<div><p>something with polynomials???</p></div></div>
+path:  ['Applications and overview', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='921ee8fc-056e-4c5c-9832-6854a12c39fd', title='📚 What does beachhead market mean?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>The first market you conquer, and from there, go and evolve into other markets.</p></p>
+path:  ['DZ terms']
+block:  id='31ab496a-51a0-48eb-ac21-c6ca1d840060', title='📚 reid hoffman om work life balance'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>It is a competition</p><p>does your competition work 80 hour workweeks?</p></p>
+path:  ['Random']
+block:  id='1904b158-9e2b-47a5-899e-65b6a11a4157', title='📚 Ka to ting avhenga Torque av?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Dreiemomentet avhenger av lengden på stanga og kor mykje kraft du gir (vinkelrett) på tuppen</p><p></p></p>
+path:  ['10 - Dynamics of rotational motion', 'drittabell (nossr)']
+block:  id='2069727f-649a-4f24-8c05-38b42a24a9d2', title='📚4 stages of warm calling (memo)'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>1 credibility: mention familiar person or institusjon</p><p>2 value</p><p>3 meet on their terms</p><p>4 be prepared compromise that secures follow-up</p><p></p></p>
+path:  ['Never Eat Alone', 'Bøker']
+block:  id='c5628912-fd43-4ca4-9988-4af518fa37dd', title='📚 plot sinuskurve med matplotlib [http://localhost:8888/notebooks/matplotlib base.ipynb](http://localhost:8888/notebooks/matplotlib%20base.ipynb)'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p></p></p>
+path:  ['Python', 'Dev']
+block:  id='c8eeb9d8-ddee-4e30-9dc8-77e54726aadf', title='📚 Koffor meina scott at passion er bullshit?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Han dreg fram et eksempel fra då han jobba med å dele ut lån. Dei ga aldri ut lån til folk som kun var _passionate_.</p><p>For seg sjølv har han alltid blitt passionate etter han har begynt å sjå suksess i tinga sine, og ikkje fått suksess fordi han er passionate.</p><p>Han nevner også at suksessfulle folk kanskje sei at passion er nøkkelen til suksess, men at det kan være meir en måte for personen å framstille ting på en sexy måte isteden for å sei at du er smart, hardt-jobbane eller dedikert.</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='5ebed5f5-2082-457e-9180-f441f76c14d3', title='📚 kva handlar kapittel 2-7 om? [memo] [todo skrive svar]'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>i båten som seilar ned nidelva</p><p>2: chris vaska svana si</p><p>3: fiska som hoppar oppi bhen til chris</p><p>4: prøva å konse kvar dag kl 12 men blir skremt når nidarosdomen slår klokka</p><p>5: prøva å fiske men surra seg rundt og 1000 krokar er oppå han</p><p>6: ark surra rundt og forstyrre han</p><p>7: han når kantenog landar på et jorde der en fyr står og luka ugras </p><p></p><p></p></p>
+path:  ['The Productivity Project', 'Bøker']
+block:  id='3ed11525-a51c-4c4e-ae13-d017ca8ff6bf', title='📚 why is technical skills less relevant in todays world.'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>because technologies are being made as services and integration. what you need is to combine the right ones and have the best business plan</p></p>
+path:  ['Blitzscaling', 'Bøker']
+block:  id='3e5f7564-c470-4426-a4aa-6e8c422dfbae', title='📚 koffor e de slik at det du tenker skjer?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Universal intelligence.</p><p>Alt som finst i universet har blitt tenkt på først. Det er krefter i sving som våre 5 sansar ikkje klarer å oppfatte. Av og til må du berre utnytte dei, ikkje stille spørsmål.</p><p>Funka også andre veien, negativt.</p><p></p></p>
+path:  ['You are a badass at making money', 'Bøker']
+block:  id='acb6192f-9af4-42cd-b7fc-4e7a8c91ef3e', title='📚 4 growth factors and 2 growth limiters'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>1 - market size</p><p><p>«We can’t recall a single instance of a company that grew to a massive scale by leveraging the virality of a paid product.»</p></p><p>3 - gross margins</p><p>4 - network effects</p></p>
+path:  ['Blitzscaling', 'Bøker']
+block:  id='3699ad1b-9b5c-428f-88c6-88d12259d39c', title='📚 Koffor kan varme bad hjelpe deg å sovne fortare?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>fordi </p></p>
+path:  ['Fall asleep', 'Drowzee']
+block:  id='d243da11-99eb-4c2f-9fdc-7d5785bc48ca', title='📚 Korson kan du få ut ord fra en ifstream?'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='2e0632dd-0a8e-43e7-a16a-9f1fe50e5641', title='📚 3 things that every __battery-powered circuit__ must have:'
+block.type:  text
+block.type:  bulleted_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  bulleted_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  bulleted_list
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><ul><li><p>This takes care of when the circuit is short-circuited, for example.</p></li></ul><ul><li><p>When the battery goes from having a steady current to a steady voltage. TODO why?</p></li></ul><ul><li><p>Prevent the battery from going too low</p></li></ul></p>
+path:  ['Lipo Li-Ion', 'Real', 'projects']
+block:  id='0566b123-6ec4-4e3f-844d-ce08630c0ee8', title='📚 Korson definera du en kopikonstruktør av typen School?'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='ca9e445c-f02e-43f2-a6e0-4e6d027af6d5', title='📚 check if key exists in std map:'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='45f83e06-43ed-4818-978d-b3601d3c4c14', title='📚 Lære meg dialekter. Korson kan e få til det?'
+path:  ['Fjedle Kadla', 'projects']
+block:  id='651347dd-dd36-4a34-89f8-2423718055cc', title='📚 Bør sende en epost til Spiff om API'
+path:  ['Fjedle Kadla', 'projects']
+block:  id='b30dfc7c-0801-4187-a76d-9a5e4c0d103c', title='📚 noken strengths e djupt karakteristiske for deg: signature strengths'
+path:  ['Authentic Happiness', 'Bøker']
+block:  id='19cf541a-48c8-4e3e-af23-04f6ced8ab6d', title='📚 koffor er det bra å være egen?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><p>når du er egen unngår du å to korttids-valg og bli en byrde for samfunnet seinare.</p><p><ul><li>kjøpe fast-food for å hjelpe en medarbeider på jobb</li></ul><ul><li>droppe trening for å hjelpe til en time ekstra heime.</li></ul></p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='630b725a-7158-4ae5-b617-fa32aa819aab', title='📚 forskjellen på verdenssyn til _optimizers_ og _simplifiers_'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>optimizers vil kanskje ha sjuke mål, og gjer alt i deira kraft for å få dei til.</p><p>simplifiers er meir relaxed og stola på systema sine.</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='ec8639a7-89fb-4c7a-99c1-fdd050fee3b6', title='📚 In what simple way does Scott describe conversations?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Ask questions until you find a field of common interests</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='0bbf5b6e-e387-46e0-ab4b-df449ff87f39', title='📚 What is the web in the body called?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What is the web in the body called?<div><p>Fascia!</p><p>A thin layer/web sorrounding your whole body and all your organs</p></div></div>
+path:  ['Therminology', 'Strength', 'Trening']
+block:  id='80785ebc-5ee3-4151-99e0-ae421caebecb', title='📚ka de va han likte med det her? ↓p'
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='9357ec6e-97ef-46ca-a8b3-6330d78d1c1a', title='📚 Koffor e det viktig å bøye seg godt over?'
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='f5f23e1c-124e-4186-80c1-329d0d4b3896', title='📚 Femur skal være: in line med føttene!!'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='173d0f8c-9fee-4ede-a693-fd4bf0eefaa7', title='📚 Ka e funksjonen til beina i bench press?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka e funksjonen til beina i bench press?<div><p>Beina skal hjelpe å få brystet bak over skuldrane og dytte opp arcen.</p></div></div>
+path:  ['Bench press', 'Strength', 'Trening']
+block:  id='22458c3e-fa3c-40e9-8bda-feed1eb1c8c5', title='📚 Kor breidt skal __grippen__ være i en bench press'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kor breidt skal __grippen__ være i en bench press<div><p>Slik at forearmsa er vertikale når baren treff brystet</p></div></div>
+path:  ['Bench press', 'Strength', 'Trening']
+block:  id='257f328b-b39c-4ce4-9894-a55af8349483', title='📚 lag en map med et par element c++'
+block.type:  text
+block.type:  code
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['C++', 'Dev']
+block:  id='e8f849c7-7d6d-4211-900d-3a1404f79d4c', title='📚 Korson gjer en struct (Obs) printable ved <<?'
+block.type:  toggle
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson gjer en struct (Obs) printable ved <<?<div>See link to get content</div></div>
+path:  ['C++', 'Dev']
+block:  id='0a2aceb5-0f84-4c29-980e-c7beaf891483', title='📚 Ka slags motiverande ting sa Santiago Cajal?'
+path:  ['A Mind For Numbers', 'Bøker']
+block:  id='ebad4dcb-2ffb-4b95-bc57-5c74a30aecac', title='📚 Ka meina Oakley med at gode chunkar resonerar?'
+path:  ['A Mind For Numbers', 'Bøker']
+block:  id='c2af4e96-8858-4340-8dbf-212e311787b8', title='📚 Med et spørsmål, kva handla boka om?'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['THE LEAN STARTUP', 'Bøker']
+block:  id='5ef06c7c-12e5-4dc0-89a5-3be50ba76ba4', title='📚 Ka tre dela e Lean startup delt opp i?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>vision</p><p>steer</p><p>accelerate</p><p></p></p>
+path:  ['THE LEAN STARTUP', 'Bøker']
+block:  id='1eaa5491-2687-4ff4-ab92-1395e5f375b7', title='📚 Flytt alle staga filer til working dir (unadd files)'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  column
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Flytt alle staga filer til working dir (unadd files)<div><div class='column_list'><div class='column'>See link to get content</div><div class='column'>See link to get content</div></div></div></div>
+path:  ['Git', 'Dev']
+block:  id='b404ff15-7e45-475c-8520-445d87dc5bf9', title='📚 Korson kan du styrke forholdet ditt med Universal Intelligence?'
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><ul><li>Quiet your mind og hør på ka den vil sei til det</li></ul><ul><li>Surrender til ideane, tru på dei og følg dei</li></ul><ul><li>Vit at UI støtter deg når du ferdes inn i mørket</li></ul><ul><li>Aksepter at du ikkje må vite alt</li></ul></p>
+path:  ['You are a badass at making money', 'Bøker']
+block:  id='8112871a-280f-448a-bd7c-1ef66d69d443', title='📚 Kva er dei 6 viktigaste familiane av søvnsjukdommar?'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>insomniar</li></ol><ol><li>pusteforstyrrelser ved søvn</li></ol><ol><li>sentrale hypersomnier</li></ol><ol><li>døgnrytmeforstyrrelser</li></ol><ol><li>parasomnier (gå i søvne etc)</li></ol><ol><li>søvnrelaterte bevegelsesforstyrrelser (restless legs)</li></ol></p>
+path:  ['Sov Godt', 'Bøker']
+block:  id='bee31d2e-1ded-47fa-9d72-e7b383506756', title='📚 Når har vi turbulent strøming kontra _laminær strømning_?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Når har vi turbulent strøming kontra _laminær strømning_?<div><p>Når farta er stor</p></div></div>
+path:  ['Fluidfriksjon', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='b08adb9e-f38f-40a6-8a45-bf3688fe233b', title='📚 Formelen for spenning i __en step respons__ er:'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Formelen for spenning i __en step respons__ er:<div>See link to get content</div></div>
+path:  ['Transientanalyse / RC-krets', 'Elektronikk', 'Skule (nossr)']
+block:  id='6b059ab9-2085-4031-b3c8-fe8d9a339325', title='📚 Ka blir den laplacerte funksjonen av heaviside?'
+block.type:  toggle
+block.type:  toggle
+block.type:  image
+block.type:  divider
+'NoneType' object is not iterable
+'DividerBlock' object has no attribute 'title'
+answer:  <div class='toggle'>📚 Ka blir den laplacerte funksjonen av heaviside?<div>📚 Ka blir den laplacerte funksjonen av heaviside?</div></div>
+path:  ['6.3 Unit Step Function. Second Shifting Theorem.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='16515092-8879-4d5f-b77e-0e9c195c3027', title='📚 Korson kan du sei at EEG er multidimentional?'
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='09d3700d-ac83-4383-a358-04556edf4fea', title='📚 Ka e edge artifact og ka innebær det?'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>Sånn eg har skjønt det, er edge artifact en oppgang på sida som ikkje har fått tid til å gå ned. Du kan derfor ikkje identifisere og fjerne den vha filter/frekvanalyse.</p>See link to get content<p>Du treng ca 3 gangar lengda av den frekvensen du vil oppdage. Altså 1Hz gir 3s.</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='7895c511-e94f-4aa6-8cdb-c61de0feb458', title='📚 Ka meinast med en trial i preprosessing? [usikker]'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Tidspunktet du tar epoch (?)</p>See link to get content</p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='8d0f7015-0f44-4808-a7ad-9a6052749d15', title='📚 Kor stort epoch vindu bør du ha for tidsfrekvens.'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kor stort epoch vindu bør du ha for tidsfrekvens.<div><p>Varierar med tanke på frekvens. For lave frekvensar må du ha meir.</p><div class='column_list'><div class='column'>See link to get content</div><div class='column'>See link to get content</div></div><p>Kor stort bufferområde du må ha avhenger av frekvensane du vil oppdage. Du bør egentlig kanskje ha __3 gangar__ den frekvensen du vil oppdage. For 2 Hz blir det 1500 ms</p></div></div>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='add8a4cd-37c5-4fa2-9f97-653a73680012', title='📚ka gjorde Keith Ferazzi når han begynte i YaYa?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Han sin teknikk: Han mappa ut dei viktigaste folka i feltet, CEOs, journalister, programmererar, akademikerar. Mål: kjenne dei fleste innen et år.</p><p>For å få buzz, skreiv ned liste "influentials": early adopters, journalista, analysts som kunne spre buzz om produktet.</p><p>Liste over potensielle kunder, acquirers, folk som kunne funde oss</p><p>Liste med folk: faktiske beslutningstakerar, ikkje </p></p>
+path:  ['Never Eat Alone', 'Bøker']
+block:  id='b380559e-8749-4858-a8a0-91b2d6d19585', title='📚what is the big five? in terms of happiness?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>flexible schedule, imagination, sleep, diet, exercise</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='d7224bad-f35d-4019-9676-768d90c042cf', title='📚 Kva er typisk spenninga mellom base og emitter?'
+block.type:  toggle
+block.type:  image
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er typisk spenninga mellom base og emitter?<div>See link to get contentSee link to get content</div></div>
+path:  ['Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='da44d140-e42b-46a9-9f31-7926d86bbef1', title='📚 Karakteristikk av bipolar transistor. Forklar forskjellige ting.'
+block.type:  text
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p>See link to get contentSee link to get content</p>
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='d43fbb9d-6a8b-4617-acbb-827a4dcae976', title='📚 Skissér forskjellen mellom en bipolar transistor og NMOS transistor'
+path:  ['Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='f0283330-f185-4ace-a481-a9fc64ae2959', title='📚 Når Rc aukar her, blir v2 større eller mindre?'
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='d313aa2c-3deb-40ac-8941-c44065613187', title='📚 Lage en trace på skrå [bilde eller histore]'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Lage en trace på skrå [bilde eller histore]<div><p>Finn ei ligning for tracen/planet.</p><p>Feks:</p>See link to get content<p>Og sett det inn i ligninga.</p>See link to get content<p></p></div></div>
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='109a0554-91f2-4c33-b3a1-2a56bfb15526', title='📚 Krumning intuisjon ved hjelp av svingradius historie'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Tenk at du kjører bil og plutselig svinger rattet en vei</p>See link to get content<p>Krumning er et tall som er 0 det går rett fram. Vi bruker derfor ikkje svingradiusen</p><p>Krumninga (kappa) blir _inversen_ av svingradiusen.</p>See link to get contentSee link to get content<p></p></p>
+path:  ['12.9 - Curvature and normal vectors', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='34321f2d-3da8-47d0-a4bc-fadb6e7bee4a', title='📚 Forskjellige måta å finne min/max langs en rand'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>① Viss randen går langs rette linjer kan du finne traces i dei retningane ved å slice funksjonen med et plan.</p>See link to get content<p>② Kan også __parametrisere__ randen og ta den deriverte</p><p>③ Det er ikkje alltid overnevnte er så enkelt, så då kan du bruke __Lagrange multipliers__.</p></p>
+path:  ['13.8 - Maximum/minimum problems', 'Kapitler']
+block:  id='8128e71c-96da-4974-a1ac-32c5a70423df', title='📚 Kva er en **equipotential curve?** i ei setning'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>(tenk ekvidistanse)</p><p>Nivåkurvene til en potensialfunksjon</p><p></p></p>
+path:  ['15.1 Vector Fields', 'Kapitler']
+block:  id='5f6714e9-676f-4e4f-a88f-30c80fb056d6', title='📚 I ei setning kva gjer greens teorem?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Å ta dobbeltintegralet over et areal er det samme som å ta linjeintegral over ei lukka kurve.</p></p>
+path:  ["15.4 Green's Theorem", 'Kapitler']
+block:  id='fd1a390e-f0dc-4e98-9057-75a617284d5f', title='📚 Ka e formelen for en hyperbola med vertikal asymptote?'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka e formelen for en hyperbola med vertikal asymptote?<div>See link to get content</div></div>
+path:  ['11.4 - Koniske seksjoner', '11 Parametriske og polare kurver', 'Calculus', 'Skule (nossr)']
+block:  id='908cb43d-9349-45b2-bc45-9e6f486b53ab', title='📚 Gradient of explicitly defined 3D function vs implicitly defined'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  bookmark
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Gradient of explicitly defined 3D function vs implicitly defined<div>See link to get content<p>The gradient of an explicitly defined function in 3D is itself 2D, because it only has __two components.__</p><p>In an implicitly defined function, the gradient is 3D.</p>See link to get content<p>todo gjere med eksempelet der ↑ (implisitte er feil)</p><p></p></div></div>
+path:  ['13.6 - Directional derivatives and the Gradient Δ', 'Kapitler']
+block:  id='5621fe42-ec09-43af-a4e3-302b00004dc5', title='📚 Equation of a line as a vector valued function'
+block.type:  toggle
+block.type:  image
+block.type:  image
+answer:  <div class='toggle'>📚 Equation of a line as a vector valued function<div>See link to get contentSee link to get content</div></div>
+path:  ['12.5 - Lines and Curves in space', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='fd541d25-db39-4eb7-9baf-56565c1b797e', title='📚 Proof that the gradient is __normal to the surface__'
+block.type:  text
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p>See link to get content<p>Since the curve is on the surface, we can write</p>See link to get content<p>If we derivate both sides and see what we get:</p>See link to get content<p>Turns out, the __gradient__ and the __tangent vector__ of the curve has a dot product of 0.</p><p>That _has_ to mean that there is some kind of orthogonality.</p>See link to get content<p>This proves that the gradient is always __normal to the surface__! </p><p></p></p>
+path:  ['13.7 - Tangent planes and Linear approximation', 'Kapitler']
+block:  id='28632261-41fa-4954-9357-5779cfca0a5d', title='📚 Koffor er dette sant? (viss det er sant da)'
+block.type:  toggle
+block.type:  image
+block.type:  toggle
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Koffor er dette sant? (viss det er sant da)<div>See link to get content<div class='toggle'>📔<div>📔</div></div></div></div>
+path:  ['1 Trigonometric shit', 'Calculus', 'Skule (nossr)']
+block:  id='832eb647-e964-44c6-add2-0ca3e6b65b68', title='📚 Korson finn du __kurvelengda__ til en vektorevaluert funksjon?'
+block.type:  toggle
+block.type:  image
+answer:  <div class='toggle'>📚 Korson finn du __kurvelengda__ til en vektorevaluert funksjon?<div>See link to get content</div></div>
+path:  ['12.8 - Length of curves', '12 Vectors & vector-valued functions', 'Calculus', 'Skule (nossr)']
+block:  id='def2ffe9-8e0d-4747-9fb4-2c6fbc0ab8af', title='📚 A two variable function can be defined two ways:'
+block.type:  text
+block.type:  bulleted_list
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  bulleted_list
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><ul><li>See link to get content</li></ul><ul><li>See link to get content</li></ul></p>
+path:  ['13.2 Graphs and Level curves', 'Kapitler']
+block:  id='0a958d2e-0e23-475e-8939-49079e3c925f', title='📚 __Kva er half angle formulasane? [todo sjk]__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 __Kva er half angle formulasane? [todo sjk]__<div><p>sjekk det opp plis</p>See link to get content</div></div>
+path:  ['1 Trigonometric shit', 'Calculus', 'Skule (nossr)']
+block:  id='f14eca90-d933-4a0e-a9c8-997d44462cf1', title='📚 Grunngi koffor det er logisk at delbrøksoppspalting fungerer'
+path:  ['Delbrøksoppspalting', 'Calculus', 'Skule (nossr)']
+block:  id='8e7064cc-f3ac-415a-a8bc-cb7bc3772fe6', title='📚 Utled formel for å regne ut determinant til 3x3-matrise'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Utled formel for å regne ut determinant til 3x3-matrise<div><p>Nøkkelen er å finne volumet til parallellepipeden.</p>See link to get content<p>Vi vil få til å regne ut dette uten å vite vinklane.</p>See link to get content<p>↑ Flata kan vi regne ut ved hjelp av kryssprodukt</p><p>Viser seg at formelen vår var akkurat formelen for prikkprodukt, og vi får vekk cos(θ)</p>See link to get content</div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='340233b5-1c58-484f-86a8-6e13c3fdbc13', title='📚 Kalkulere kryssprodukt av to vektorar i 3D'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kalkulere kryssprodukt av to vektorar i 3D<div><p>Legg til en vektor med alle enhetsvektorane, og ta determinanten</p>See link to get content</div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='c843acd9-0d02-4fa9-983a-3168a6e58a0c', title='📚 __Korleis dividerer vi to komplekse tall? ↑__'
+block:  id='4d79e268-b4f2-4d2a-83f1-8b0e23ab8a36', title='📚 Korson finn du ut om ei matrise er inverterbar??'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  video
+'NoneType' object is not iterable
+'VideoBlock' object has no attribute 'title'
+answer:  <div class='toggle'>📚 Korson finn du ut om ei matrise er inverterbar??<div>📚 Korson finn du ut om ei matrise er inverterbar??</div></div>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='d095ba30-d067-4299-bb74-68df1ac0bc72', title='📚 ↑ Korson kan kretsen ovenfor __bli forenkla?__'
+block:  id='bd822ad9-5036-450f-8779-921069e1029a', title='📚 Kva syklus finn vi i en von neumann-arkitektur?'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva syklus finn vi i en von neumann-arkitektur?<div><div class='column_list'><div class='column'><p>Fetch-decode-execute</p><p><p>Finn instruksjon fra memory og lagra den midlertidig i et register.</p></p><p><p>Finn ut kva som skal skje og gjer komponentar klar for operasjon!</p></p><p><p>DO it</p></p><p></p></div><div class='column'>See link to get content<p></p></div></div></div></div>
+path:  ['Datamaskiner og digitalteknikk', 'Skule (nossr)']
+block:  id='33e754d3-e2b8-4538-9f0c-3fa32a015f7a', title='📚 Koffor er eulers metode relevant for fysikklabben vår?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Koffor er eulers metode relevant for fysikklabben vår?<div><p>Fordi vi veit akselerasjonen. Og vil finne kor ballen kjem til å være</p><p>Eller e det akselerasjonen vi vil finne??</p></div></div>
+path:  ['Eulers metode', 'Diffligninger', 'Skule (nossr)']
+block:  id='0b68544e-9e00-4a9c-9502-5537aacc2449', title='📚 Bevis __M ~ N ⇒ N ~ M__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Bevis __M ~ N ⇒ N ~ M__<div><p>For å komme fra M til N må du bruke et antall radoperasjonar.</p><p>Alle radoperasjonane er reversible (skalering med `c` kan bli bytta med `1/c`, addisjon kan gjerast omvendt, og flytting også), derfor kan du enkelt gå begge veia.</p></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='e28d9d30-0ff2-45ad-b96e-1e0152a9eda2', title='📚 Kva har ei matrise til felles med basisvektorar'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva har ei matrise til felles med basisvektorar<div><p>Når du gangar ei matrise med en vektor, blir matrisen dei nye basisvektorane til vektoren</p></div></div>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='ecb50275-19b7-4fc0-9117-81ebf4e7f090', title='📚 Forklar korson du ganga matrise med en vektor (intuitivt)'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Forklar korson du ganga matrise med en vektor (intuitivt)<div><p>Du har ei matrise B og en vektor v</p>See link to get content<p>Vektoren hadde klart seg heilt fint uten matrisa. Da hadde den vert tredimensjonal til og med</p>See link to get content<p>Det vi gjer når vi gangar ei matrise med vektoren er basicly __å gi den nye enhetsvektorar__.</p>See link to get content<p>Dei nye enhetsvektorane blir slik:</p>See link to get content<p>Og då er det berre å telle/gange den nye vektoren inn:</p>See link to get content<p>I vårt tilfelle gikk vektoren fra 3D til 2D. Det er fordi ingen av dei nye enhetane hadde en tredjekomponent.</p></div></div>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='4aa4130a-5cde-48e8-b489-f649e33a7f6c', title='📚 Kva betyr uniform sirkelbevegelse og kva er formelen'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  image
+answer:  <div class='toggle'>📚 Kva betyr uniform sirkelbevegelse og kva er formelen<div><p>[todo] forklaring</p>See link to get contentSee link to get content</div></div>
+path:  ['angular kinematics', 'Bevegelse', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='59688417-7637-493c-84e7-678d54b20aa2', title='📚 Kva er sentripetalakselerasjonen (i forhold til sentrifugalkrafta)?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er sentripetalakselerasjonen (i forhold til sentrifugalkrafta)?<div><p>Akselerasjonen innover mot senter. sentrufugal er omvendt.</p>See link to get content</div></div>
+path:  ['angular kinematics', 'Bevegelse', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='6c857da0-b25c-400d-89e2-b23e26197d70', title='📚 Kva to variablar er viktige for fluiden mtp fluidfriksjon?'
+block.type:  toggle
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva to variablar er viktige for fluiden mtp fluidfriksjon?<div><ul><li>Massetetthet</li></ul><ul><li><p>På folkemunne; kor seigt noke er.</p><p>_Sirup har stor viskositet_.</p>See link to get content</li></ul></div></div>
+path:  ['Fluidfriksjon', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='0d5e3b5a-45a4-4d25-8543-486ccac00003', title='📚 Ka e formelen for en hyperbola med horisontal asymptote?'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka e formelen for en hyperbola med horisontal asymptote?<div>See link to get content</div></div>
+path:  ['11.4 - Koniske seksjoner', '11 Parametriske og polare kurver', 'Calculus', 'Skule (nossr)']
+block:  id='7671e66c-a2cf-4a78-89e0-69fbc12dd5e2', title='📚 Kva er __ligninga for strømmen__ over en spole?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p></p>See link to get content<p></p></p>
+path:  ['Spole', 'Elektronikk', 'Skule (nossr)']
+block:  id='151c838b-53aa-44b8-a838-b79b044fdedf', title='📚 Kva er __ligninga for spenninga__ over en spole?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><p>Den er det motsatte av en kondensator på en måte:</p>See link to get content</p>
+path:  ['Spole', 'Elektronikk', 'Skule (nossr)']
+block:  id='0865b397-925a-48d8-89da-79c96331b828', title='📚 __Hvilke 3 ting kan få en kondensator større?__'
+block.type:  toggle
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Hvilke 3 ting kan få en kondensator større?__<div><ol><li>Større plateareal</li></ol><ol><li>Dielektrisk material mellom</li></ol><ol><li>Ha platene nærmare kvarandre</li></ol></div></div>
+path:  ['Kondensator', 'Elektronikk', 'Skule (nossr)']
+block:  id='0c6a985e-acd5-414e-aa4c-cfa3f2f619a3', title='📚 Korson viser __terskelspenninga__ seg i en transistorkarakteristikk? '
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson viser __terskelspenninga__ seg i en transistorkarakteristikk? <div><p>Av og til er den sampla for VGS, andra gangar er den sampla for VGS-VT</p></div></div>
+path:  ['Transistor og motstand i krets', 'Transistorforsterker', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='106b072f-8dc2-4da9-8ced-877c72ac79d4', title='📚 Spenninga over en spole med gjensidig induktans:'
+block.type:  text
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p>See link to get content</p>
+path:  ['Gjensidig induktans', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='4bac8f90-ed12-40b1-9dd0-ce3f0a073941', title='📚 4 underlying principles of business model innovation: (fåpå memo)'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>Moore's law</li></ol><ol><li>Automation</li></ol><ol><li>Adaptation, not optimization</li></ol><ol><li>Contrarian principle</li></ol></p>
+path:  ['Blitzscaling', 'Bøker']
+👎👎👎👎ERROR when saving
+block:  id='a152b786-808f-47e5-be6a-1ed72e273a7b', title='📚 Kva er __resonansfrekvensen__ i et 2. ordens system?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er __resonansfrekvensen__ i et 2. ordens system?<div><p>Den frekvensen systemet har når __induktansen = kapasitansen__.</p></div></div>
+path:  ['Frekvensrespons', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='0c680bc0-5691-43a6-8d76-7a2b855fbc76', title='📚 Koffor er __arbeidspunkt__ viktig i en (bipolar) spenningsforsterker?'
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='72f00577-d20f-4259-8cc5-49d7abf39562', title='📚 Kva betyr at et system er tidsvariant?'
+path:  ['Systemfunksjon og sprangrespons', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='531863d8-96b9-4d78-ad8d-f17afe5e642a', title='📚 Kva er sperreretning og leieretning (engelsk biased)?'
+path:  ['Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='16100148-d39b-4f53-a63f-84a43aed4989', title='📚 Kva er en differensiell forsterker overordna (utafra)?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er en differensiell forsterker overordna (utafra)?<div><p>I en differensiell forsterker har inngang og utgang __ikkje__ samme jord.</p>See link to get content</div></div>
+path:  ['Differensiell forsterker', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='0c6cc7c2-0468-4d41-ab45-e4b1b0c764f8', title='📚 Tegn en bufferkrets ved hjelp av en transistor'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Tegn en bufferkrets ved hjelp av en transistor<div>See link to get content<p>↑ NB er en feil her!!!!!!</p></div></div>
+path:  ['Source-følger', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='6c106d44-59f8-4230-b4a0-270ed1d777e3', title='📚 djupt nede, koffor vil eg være meir produktiv?'
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><ul><li>for ålære</li></ul><ul><li>sikkerhet</li></ul><ul><li>meir med vennar/dame</li></ul><ul><li>få til ting her i livet</li></ul></p>
+path:  ['The Productivity Project', 'Bøker']
+block:  id='985eed65-c7e1-492b-8268-2f9143b2e0c3', title='📚 Formelen for spenning i __en naturlig respons__ er:'
+block.type:  toggle
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Formelen for spenning i __en naturlig respons__ er:<div>See link to get contentSee link to get content<p></p></div></div>
+path:  ['Transientanalyse / RC-krets', 'Elektronikk', 'Skule (nossr)']
+block:  id='e49c4edd-60e1-4ca3-8e77-ae06e0229f92', title='📚 finn et system for å huske dinne tabellen!!!!!! ↓'
+path:  ['6.1 Laplace transform', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='a1b1ec2f-7b9c-4b0a-b09a-dcf3a3960508', title='📚 Koffor bruka vi ikkje ≤ og ≥ her? ↑'
+block:  id='de7897b2-9a64-442c-a1a8-1571db772d44', title='📚 Framgangsmåte for å lage en fourier-approksimasjon av en graf'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Framgangsmåte for å lage en fourier-approksimasjon av en graf<div><p>① Finn fourier-koeffisientar</p><p>② Lag en fourier-serie av koeffisientane</p></div></div>
+path:  ['11.1 Fourier Series', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='6d54a6e9-592b-4b68-ba3d-2b367560bfc0', title='📚 When and why does it go to hell?'
+path:  ['11.3 Forced Oscillations', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='9e78f710-999b-49ef-b943-07c62199cb0b', title='📚 Ka faen skjer på det bildet her?'
+block.type:  toggle
+block.type:  image
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka faen skjer på det bildet her?<div>See link to get contentSee link to get content<p></p><div class='toggle'>📔<div><p>veit ikkje</p></div></div></div></div>
+path:  ['Fluidfriksjon', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='8a65b74e-3c11-4200-8ab1-8e7506c47110', title='📚 Kva er negativt (kritikk) med denne forsterkerløysinga?'
+block.type:  text
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  column
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><div class='column_list'><div class='column'>See link to get content</div><div class='column'><p><ul><li>Det er vanskelig å kontrollere iB, fordi den er veldig sensitiv ovenfor spenninga Vbe</li></ul><ul><li><p>Fordi det avhenger av</p>See link to get content<p>Disse ↑ kan avhenge av innsignalet og det er derfor fare for __ulineær oppførsel.__</p></li></ul></p></div></div></p>
+path:  ['Transistorforsterkerar (bipolar)', 'Bipolare transitorbaserte system', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='a440a4e0-6063-453e-8385-7290083dfccb', title='📚 Why the word conditioning? What does conditioning mean?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Conditioning is a __way of learning__.</p>See link to get content</p>
+path:  ['DZ terms']
+block:  id='cd997565-d443-49e6-ae40-66a8a3d08953', title='📚 What are the 5 components of CBT-I?'
+block.type:  text
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  numbered_list
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><ol><li><p>Associate bed with sleeping. Don't do other things in the bed. Don't go to sleep before tired.</p></li></ol><ol><li><p>Bedroom environment, coffe consumption etc..</p></li></ol><ol><li><p>Technique to build up sleep drive and stop associating bed with frustration.</p></li></ol><ol><li><p>Techniques include hypnosis, guided imagery and meditation</p></li></ol><ol><li><p>Help remove persons dysfunctional thoughts about sleep. Not blame sleep for everything, don't try hard to fall asleep, avoid catastrophic thoughts.</p><p>In short: don't care so much</p></li></ol></p>
+path:  ['DZ terms']
+block:  id='3895b8ab-212f-4949-95e4-37b4c0513604', title='📚 Why is it important to learn pronounciation first?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>It unites the written and spoken world, and makes it easier to learn from native speakers. It also makes it easier to differentiate words that you originally would think sounded the same (like: _knees_, _niece_)</p><p></p></p>
+path:  ['Fluent Forever', 'Bøker']
+block:  id='51ba4e12-c844-41e2-8427-10b17fffe376', title='📚 ka e dei 5 komponentane av happiness?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>__Perma!__</p><p>Positive emotions</p><p>Experiencing flow</p><p>Relationships</p><p>Part of something bigger</p><p>Achievments</p></p>
+path:  ['The Hope Circuit', 'Bøker']
+👎👎👎👎ERROR when saving
+block:  id='64164895-cc81-487e-9561-d2d7a6415063', title='📚 Fortell historia om dei fire jentene og passiv kontakt'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><p>"the mroe passive contacts we share with another person, the more we gravitate towards him or her"</p><ul><li>4 jente like fine</li></ul><ul><li>Tok bilde og rangerte utsjånad</li></ul><ul><li>Alle scora omtrent likt</li></ul><ul><li>200 studenta i forelesning.</li></ul><ul><li>15 timar, 10, 5 og 1</li></ul><ul><li>Gikk alltid rett ned of satt seg, ikkje snakka med noken</li></ul><ul><li>Etterpå 10% gjenkjente ho</li></ul><ul><li>"meir tima", dess "meir attraktiv"</li></ul><ul><li>uansett om dei fleste ikkje kjente ho</li></ul></p>
+path:  ['Click - The magic of instant connections', 'Bøker']
+block:  id='547fbf5d-dd99-4291-bd4f-1c98bde49756', title='📚 på ka to måta kan du overføre energi'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>utføre arbeid på en gjenstan</p><p>eller overføre varme til gjenstanden</p><p>hm er vel egt fleire? (elektrisitet, kjemisk etc?)</p></p>
+path:  ['6 - Work and kinetic energy', 'drittabell (nossr)']
+block:  id='b3285bc9-4ce2-4dd6-a0d0-286835ebb48d', title='📚 Ka e sammenhengen mellom Torque og moment?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Er egentlig samme driten. Men blir brukt i forskjellige sammenhengar.</p>See link to get content</p>
+path:  ['10 - Dynamics of rotational motion', 'drittabell (nossr)']
+block:  id='b07a0058-1d97-4698-bc92-6e3112fa1ad9', title='📚 Korson kan du sei at en fouriertransform berre e en sammensetning av mange time spikes?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson kan du sei at en fouriertransform berre e en sammensetning av mange time spikes?<div><p>regn ut spiken for kvar tid og sett i sammen på en måte så går det</p><p></p><p>todo</p><p></p>See link to get content<p></p></div></div>
+path:  ['FFT', 'Waves', 'Drowzee']
+block:  id='22d9976f-13f6-4d9d-aaed-8e211b8a6400', title='📚 Koffor blir akkurat den riktige grafen laga her ↑ og ikkje feks den stipla?'
+block:  id='d22f1323-e7be-4eb0-9290-17c7903c85eb', title='📚 Lag en spike på 0s 1s 2s eller 3s med valgfri amplitude med 3 hz'
+block.type:  toggle
+block.type:  embed
+'NoneType' object is not iterable
+'EmbedOrUploadBlock' object has no attribute 'title'
+answer:  <div class='toggle'>📚 Lag en spike på 0s 1s 2s eller 3s med valgfri amplitude med 3 hz<div>📚 Lag en spike på 0s 1s 2s eller 3s med valgfri amplitude med 3 hz</div></div>
+path:  ['FFT', 'Waves', 'Drowzee']
+block:  id='08ec9cc8-b096-41fc-95fe-44f344829622', title='📚 nemn ting i livet ditt som er goals vs system'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>få bra karakterar er goals</p><p>trene 3x veka er system (men goalsa er goals)</p><p>masse i Drowzee er goals</p><p>SSR er system</p><p>Lese litt kvar dag er system</p><p>foam rolle er system</p><p>matlaging er system</p><p>økonomi er system</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='cf626514-a2a2-4594-bf2f-bc115103829a', title='📚 kem bør du reache ut til først når du skal bygge nettverk?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>folk du __allerede__ kjenner! type vennar familie. Spør "kjenne du noken som kan hjelpe meg å oppnå måla mine?"</p><p></p></p>
+path:  ['Never Eat Alone', 'Bøker']
+block:  id='01d281e8-b67b-46ed-a7bd-87b1265ca38a', title='📚Ka e grunnen, og eksempel på å avslutte med et åpent spørsmål når du kontakter folk?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Det er mindre skummelt, du invitera personen til å være med å jobbe med problemet ditt</p><p>Hei,</p><p>Eg jobbar med dropshipping i Drowzee for tida, men synest det er vanskelig å få haudet mitt rundt alle lovar og reglar.</p><p>En kaffi en dag.</p><p>Korson høres dette ut for deg?</p></p>
+path:  ['Never Eat Alone', 'Bøker']
+block:  id='27e94568-2739-4a53-acf3-0344134ab5d7', title='📚 ka metafor bruka ‣ for å forklare at vi __ikkje__ burde settle?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>vi er et tre som gror. planeten forandrar seg. universet utvidar seg. alt er i konstant endring. som person må du også alltid vokse, og forandre deg</p></p>
+path:  ['You are a badass at making money', 'Bøker']
+block:  id='1c9c4ff5-cded-40d3-b913-349adf069025', title='📚 (minst 10 stk) lag ei liste med alle grunnane til at du fortena pengar:'
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><ul><li>E kan veldig mange skills som er gode å kunne</li></ul><ul><li>Har gode hensiktar</li></ul><ul><li>Kjem til å bruke pengane til å få det til å florere rundt meg</li></ul><ul><li>E kan 3 språk</li></ul><ul><li>E e litt morsom</li></ul><ul><li>E spring kvar morgen og trena</li></ul><ul><li>E tek godt vare på familien min</li></ul><ul><li>E jobba hardt</li></ul><ul><li>E gjorde det bra i noken fag på universitetet</li></ul><ul><li>E e jævlig god på piano</li></ul></p>
+path:  ['You are a badass at making money', 'Bøker']
+block:  id='718170f2-d084-401d-b9e2-9cf21fd0e023', title='📚 ka spørsmål bør du alltid stille deg når du møter folk?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>"how can _I_ help you?"</p></p>
+path:  ['Never Eat Alone', 'Bøker']
+block:  id='d04b4d02-17db-47c1-bece-5fa4d73ea49e', title='📚 utfyll det scott meina om 20 og 80 i happiness'
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='afaf8e97-5394-4601-89e9-9735b43e0a79', title='📚PMF means: Having a market and a product that satisfies a demand in that market'
+path:  ['Blitzscaling', 'Bøker']
+block:  id='43311283-4261-4a4a-99df-51531d0a790d', title='📚 Koffor kan det være en ulempe å være _naturally gifted_?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Koffor kan det være en ulempe å være _naturally gifted_?<div><p>Du får ofte ikkje utvikla kritiske life-skills i tidlig alder og lære deg aldri å jobbe med ting. Noken velge også å gjømme eller undertrykke sine gifts fordi dei ikkje vil skille seg ut.</p><p>Av og til er det bedre å jobbe med ting og lage seg forståelse gjennom hardt arbeid og dedikasjon, dette kan være et problem for dei med naturlige gifts.</p></div></div>
+path:  ['A Mind For Numbers', 'Bøker']
+block:  id='3ac6fa74-19a5-4c34-825e-64e02a4c0a9a', title='📚 Kva datatype e hensiktsmessig å bruke for rgb 0...255? og koffor'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Bruk `uint8_t` istedenfor `int`, fordi den er unsigned og 255 e berre 8 bit</p></p>
+path:  ['C++', 'Dev']
+block:  id='558b7bcc-0adb-4453-b998-bbbc232f6395', title='📚 Koffor kan er det akuratt tallet 3 som inngår i rule of 3?'
+path:  ['The Productivity Project', 'Bøker']
+block:  id='f0f4f59e-3264-4e37-8ee8-dc225a1cde19', title='📚 Ka betyr _Plateau of Latent potential?_ og ka e en god quote som beskrive det'
+block.type:  text
+block.type:  video
+'NoneType' object is not iterable
+'VideoBlock' object has no attribute 'title'
+answer:  <p>📚 Ka betyr _Plateau of Latent potential?_ og ka e en god quote som beskrive det</p>
+path:  ['Atomic Habits', 'Bøker']
+block:  id='0e3e45a1-0d33-4f6f-9ca4-a06791ef815b', title='📚 På kva tre måtar er tid, oppmerksomhet og energi alle avhengige for å få produktivitet?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Uten tid får du ikkje gjort noke</p><p>Masse distraksjonar du får ikkje gjort rette tinga</p><p>For sliten, får ikkje gjort noke.</p></p>
+path:  ['The Productivity Project', 'Bøker']
+block:  id='0003f3b7-6d4b-4a06-a986-447f71173343', title='📚 Ka to hjernehalvdelar meina Chris Bailey at har krig med kvarandre?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>det limbiske system og den prefrontale cortexen</p></p>
+path:  ['The Productivity Project', 'Bøker']
+block:  id='a89b7bba-45cd-452c-82d4-8b6a8b71ea2d', title='📚 if scott says early quality doesnt predict success, what does?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Early success</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='27d6c787-67b0-4659-9b16-343a65ce31bf', title='📚 På kva måte sammenligna Scott oss mennesker med hunden sin når det gjeld virkelighetsoppfatning?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Hunden til Scott trudde at den kunne få ting til å skje ved å stirre på eigeren sin. Egentlig hadde eigeren et valg, men for hunden virka mekanismen veldig enkel. Og den funka jo, så ingen grunn til å ikkje tenke det.</p><p>På samme måte kan det være ting vi mennesker ikkje forstår, men at det ikkje har noke å sei, så lenge det funkar.</p><p>Tagline: ikkje la et undertrykkande syn på realiteten føre til at du ikkje bruka ting og metodar som funkar.</p></p>
+path:  ['How to Fail at Almost Everything and Still Win Big', 'Bøker']
+block:  id='cfbf75c4-2814-4653-9295-8b3945fce94b', title='📚 Koffor skal du ta skuldrene bak og chesten opp under bench press?'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  video
+'NoneType' object is not iterable
+'VideoBlock' object has no attribute 'title'
+'ColumnBlock' object has no attribute 'title'
+'ColumnListBlock' object has no attribute 'title'
+answer:  <div class='toggle'>📚 Koffor skal du ta skuldrene bak og chesten opp under bench press?<div>📚 Koffor skal du ta skuldrene bak og chesten opp under bench press?</div></div>
+path:  ['Bench press', 'Strength', 'Trening']
+block:  id='94573272-7928-4db5-be5f-3c3192465b38', title='📚 Why is the front squat a poor way to train your posterior chain'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Why is the front squat a poor way to train your posterior chain<div><p>Front squat bruka lite hamstring i forhold til low-bar</p></div></div>
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='aa63d3fb-20f8-4ac9-a289-0f556868dc59', title='📚 Koffor kan det å droppe hoftene føre til at baren rullar?'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Deadlift', 'Strength', 'Trening']
+block:  id='38c0f976-f288-44ad-b843-86fcee90aac7', title='📚 Årsaken til __balanseproblem__ under squat er som regel: at ryggen er for vertikal'
+path:  ['Squat', 'Strength', 'Trening']
+block:  id='bcf1887b-5d0d-4d04-be8d-580acfb053ed', title='📚 Lag en array som allokera plass til 4 element av type Fattyboy'
+block.type:  toggle
+block.type:  code
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Lag en array som allokera plass til 4 element av type Fattyboy<div>See link to get content</div></div>
+path:  ['C++', 'Dev']
+block:  id='4cb9b892-8dae-4e40-92d9-5be636d3f444', title='📚 Ka e pluss og minus, katode og anode på en diode? [draw]'
+block.type:  text
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+answer:  <p><div class='column_list'><div class='column'>See link to get content<p></p></div><div class='column'>See link to get content</div></div></p>
+path:  ['Diode', 'Real', 'projects']
+block:  id='cf3bf07f-55e7-49f2-8a11-508f9cf4ccad', title='📚 Ka e hovedideane i kapitlet __[12] Learning to appreciate your talent__?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka e hovedideane i kapitlet __[12] Learning to appreciate your talent__?<div><p>Når du he laga en chunk kan du bruke den til å tenke kreativt. Smarte folk vil kunne få det vanskeligare med å komme til denne fasa av problemløsninga fordi dei aldri trengte å jobbe så hardt for forståelsen.</p><p>Når du er dum må du lage chunks. Chunks er bra.</p></div></div>
+path:  ['A Mind For Numbers', 'Bøker']
+block:  id='1fdfea12-226c-4160-bde3-6f746c49e12d', title='📚 Ka ligg i begrepet "har forma" fra definisjonen av et polynom?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Ka ligg i begrepet "har forma" fra definisjonen av et polynom?<div><p>Det ligg i navngivningane av variablar og strukturen av formelen i tillegg til typedefinisjonen av kva variablane er.</p></div></div>
+path:  ['Polynom', "A programmer's introduction to Mathematics", 'Bøker']
+block:  id='6257db3e-34a8-430a-b391-3b65cad0d33e', title='📚 5 av dei 10 sårbarhetsstega du kan ha ien samtale'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><ol><li>phatic: "how are you"</li></ol><ol><li>factual: "bygninga der e 50 år"</li></ol><ol><li>evaluative: "bygninga der e jævlig kul"</li></ol><ol><li>gut based: "E e lei meg for at du ikkje e her"</li></ol><ol><li>peak statements: </li></ol><p></p></p>
+path:  ['Click - The magic of instant connections', 'Bøker']
+block:  id='fad9dc2b-142a-4b60-844b-77aa997024f6', title='📚 Ka kan en sei e produkta av part 1 "vision" av en startup?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Eksperimenta og lærdommen.</p></p>
+path:  ['THE LEAN STARTUP', 'Bøker']
+block:  id='5010043d-c8de-46d2-9ee3-45437483ffa0', title='📚 Ka e dei fem prinsippa om Lean startup? (1 om gangen)'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>Startup is everywhere. Betyr at du finn startupkultur i bedrifter av alle størrelsar. Ikkje kun i garasje. Definisjon: en plass der folk skal lage nye ting med stor grad av usikkerhet.</li></ol><ol><li>Startup is management. Startup er en institusjon som treng en ledelse.</li></ol><ol><li>Validert læring. Startup handla om å _lære_ å bygge en bærekraftig business.</li></ol><ol><li>Bygge, måle, lære. Startup handla om å bygge noke, måle kor bra det gikk og lære av det. Denne syklusen må i en startup gå så fort som mulig.</li></ol></p>
+path:  ['THE LEAN STARTUP', 'Bøker']
+block:  id='25463177-b142-40e4-9bdb-79c4c89b537e', title='📚 Nevn tre grunnar til at kulturen er forskjellig i programmering og matte'
+block.type:  text
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <p><ol><li>Ingen sentral dokumentasjonsdatabase i matte</li></ol><ol><li>Utdanningssystemet lærer oss opp til å være jævlig utolmodig for å finne svara våre</li></ol><ol><li>Programmering er lagd for at alle kkan lese og forstå, mens matte er lagd for at alle må lære om det før dei kan forstå.</li></ol><ol><li>(Vant med å bruke matte som en svart boks og blir derfor utolmodig)</li></ol></p>
+path:  ["A programmer's introduction to Mathematics", 'Bøker']
+block:  id='fb30d2a4-7b30-471d-9566-ee62312c7278', title='📚 Historia om a-mennesker og b-mennesker og korson det kan forandre seg?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>Puberteten øker tendensen for å være b-menneske, altså at døgnrytmen forskyves. Dette er spesielt merkbart hos gutter.</p><p>Dette er biologisk! Har for eksempel gjort forskning på at det skjer hos macaca-apekatter.</p>See link to get content<p></p></p>
+path:  ['Sov Godt', 'Bøker']
+block:  id='bc570aaf-147c-4653-aedf-dff855ecee1b', title='📚 Kan du starte med potensiell energi U og få F? Korson?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><p>tldr: du får:</p>See link to get content</p>
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='d73adb1c-742b-43fc-a84f-5a893ca9441c', title='📚 Gitt denne kretsen ↑, korson finn du motstanden R i tidskonstanten (τ = RC)?'
+block:  id='94ca715c-46a8-4b4f-90b0-624fbcf598ff', title='📚 Forklar Laplace-transform. Kor kjem _t_ og _s_ fra og alt det der?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Forklar Laplace-transform. Kor kjem _t_ og _s_ fra og alt det der?<div><p>Laplace *transformerar* en funksjon av t (ofte tid) til en funksjon av s (ofte xxx).</p>See link to get content<p>Laplace kan brukast for å ta en funksjon fra tidsdomenet til frekvensdomenet.</p><div class='toggle'>Eksempel<div>See link to get content<p>Men skjønna ikkje sånn direkte korson det her skal gå. Prøver:</p>See link to get content<p>⚠️↑ feil! dette går faktisk!!</p><p></p></div></div></div></div>
+path:  ['6.1 Laplace transform', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='a89fdf27-af21-4dfa-971b-12ea0d60de88', title='📚 Enheten til arbeid er: [w] = Nm = J (joule)'
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='24853bb0-8793-4848-a74a-92906bda9011', title='📚 Korson betegna du konvolusjon mellom to signal _a_ og _b_?'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='8c92b97b-48cd-4101-addd-c5044e3a70bb', title='📚 Koffor kan en tvile på at time-frequency plots viser faktisk nevronar som oskillerer?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>tips: fourier (alle kan være sin)</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='6a98ed96-e12d-49fc-9f4f-24c4014afc4d', title='📚 Korson kan du representere et ERP-signal med et visst antall tidspunkt som en vektor?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p></p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='c0b05453-69a3-47ac-b35e-faba4a759bf8', title='📚 Ka e fire måta du kan dele opp tid-frekvens-space kuben? [en kvar dag]'
+block.type:  text
+block.type:  image
+answer:  <p>See link to get content</p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='e5ab87f7-bfa9-4b09-b811-43a655ddf720', title='📚 Ka e et eksempel på phase-locked data og ka e det som suge med det?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>ERP e phase-locked. Når du tek average av mange blir svaret 0 pga destruktiv interferens</p></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='ee339fff-e443-4a71-89d8-b93a17b07979', title='📚 Kva betyr __hemodynamic__ og kor mykje saktare er den enn den elektrofysiologiske responsen'
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='37699122-c96d-4a43-baa7-4cc0bae074f4', title='📚 2 grunnar til at det er jævlig dumt å sammenligne raw microvolt-verdiar:'
+block.type:  text
+block.type:  bulleted_list
+'NoneType' object is not iterable
+block.type:  bulleted_list
+'NoneType' object is not iterable
+answer:  <p><ul><li>analysemetoden kan endre verdiane relativt sett</li></ul><ul><li>faktorar som kranieform, konduktivitet og om personen dusja den morgenen kan ha ting å sei</li></ul></p>
+path:  ['Analyzing Neural Time Series Data (nossr)', 'Bøker']
+block:  id='7a4f13d1-92aa-40d7-b981-723dc5ef4a66', title='📚 Why will we be even more voulnerable for persuasion tactics in the future than now?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>In the future we will be overloaded with even more information and constant stimuli, and will therefore be more and more resiliant on our automatic responses and decisions.</p></p>
+path:  ['Influence : the psychology of persuasion', 'Bøker']
+block:  id='9de65a3e-6de7-4b59-a448-1e5184a3fe72', title='📚 What do you want to produce in people when persuading'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+answer:  <p><p>An automatic, mindless compliance, say yes without thinking first.</p></p>
+path:  ['Influence : the psychology of persuasion', 'Bøker']
+block:  id='67d79fe1-c8d5-4704-8ea8-1cde54e4a186', title='📚 Utled ka en "liten firkant" blir i polare koordinater. [todo]'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+answer:  <p><p>Tenker først at vi skal __finne ei lita pølse__ (0 < θ < 2π)</p>See link to get content<p>Så **ruller vi ut** pølsa:</p>See link to get content<p>Arealet av pølsa er altså:</p>See link to get content<p>Arealet av en liten firkant blir då:</p>See link to get content</p>
+path:  ['Dobbelintegral i polare koordinater', '14 Multiple Integrals ◾️◽️◽️◽️◽️', 'Calculus', 'Skule (nossr)']
+block:  id='867adce3-e5d6-4500-beac-4bd45c4ff0a6', title='📚 Korson delbrøksoppspaltar du når du ikkje får til å splitte nevner opp i faktorar?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Korson delbrøksoppspaltar du når du ikkje får til å splitte nevner opp i faktorar?<div><p>For eksempel kan du ha den jævelen her:</p>See link to get content<p>Her får du ikkje splitta s^2 + 9 opp i to faktorar.</p>See link to get content</div></div>
+path:  ['Delbrøksoppspalting', 'Calculus', 'Skule (nossr)']
+block:  id='a32eccb1-b6d7-410a-8cf7-685fbc7a755b', title='📚 __Gradienten til en funksjon er__: en vektor med kvar partiellderivert som komponentar'
+path:  ['13.6 - Directional derivatives and the Gradient Δ', 'Kapitler']
+block:  id='8a78e76e-a184-48e0-8e63-5bc290016a97', title='📚 Korson laga du et radielt vektorfelt der styrka avtar når du går lenger fra origo?'
+block.type:  text
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <p><p>Tenk at vi har radiusvektoren</p>See link to get content<p>__Om alle har lengde 1:__</p>See link to get content<p>Vi vil at __lengden skal avta__ over tid utover. Då må vi gange med noke som blir mindre når lengda blir lengre!</p><p>Viser seg at vi får denne flotte formelen.</p>See link to get content</p>
+path:  ['15.1 Vector Fields', 'Kapitler']
+block:  id='e23f5cb9-b222-4f45-acb2-8562e3f15f93', title='📚 What and why are the four points of the **second derivative test?** (bruk diskriminanten) [write]'
+block.type:  toggle
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What and why are the four points of the **second derivative test?** (bruk diskriminanten) [write]<div><ol><li>viss D > 0  ⇒ lokal minimum</li></ol><ol><li>viss D > 0 (med fxx og fyy negative) ⇒ lokal maximum</li></ol><ol><li>viss D < 0 ⇒ saddle point</li></ol><ol><li>viss D = 0 ⇒ ugyldig test</li></ol></div></div>
+path:  ['13.8 - Maximum/minimum problems', 'Kapitler']
+block:  id='f3453dcc-8dc9-4b7a-a4c1-b3936c0981fa', title='📚 Quadric surfaces er: basicly surfaces som blir utleda ved __andregrads ligninger__.'
+path:  ['13.1 Planes and surfaces', 'Kapitler']
+block:  id='e816e9f7-10ef-45c1-bbfe-c71f4c1dc67e', title='📚 Langs en nivåkurve (i retning) er gradienten SJEKK DET HER'
+path:  ['13.2 Graphs and Level curves', 'Kapitler']
+block:  id='11c97ce5-acca-4855-bd4e-452e2a860d1c', title='📚 Kva er variablane vi brukar i sylindriske og kuliske koordinatar?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva er variablane vi brukar i sylindriske og kuliske koordinatar?<div><p>Vi brukar phi fra heil hitler (0) til Pi, og theta rundt som på vanlig. Radiusen betegnar vi med _rho_.</p>See link to get content<p>Konvertere fra kartesisk til sylinder</p>See link to get content<p></p></div></div>
+path:  ['Sylinder-, og kulekoordinater', '14 Multiple Integrals ◾️◽️◽️◽️◽️', 'Calculus', 'Skule (nossr)']
+block:  id='48c3aea0-e2af-4e80-ad2d-8d74a9562c79', title='📚 __Ordinary differential equation (ODE)__: differential equation that depends on _one_ variable.'
+path:  ['Differential equations. Diffligninger', 'Calculus', 'Skule (nossr)']
+block:  id='a4f8a31e-ff8c-4869-90d9-ebde841fcc37', title='📚 __Partial differential equation (PDE)__: differential equation that depends on _multiple_ variables.'
+path:  ['Differential equations. Diffligninger', 'Calculus', 'Skule (nossr)']
+block:  id='3bb118a0-76c3-4078-a9b6-cba346a1beaa', title='📚 __Lineærkombinasjon__ av vektorar er: alle vektorar du får når du plussar vektorane vilkårlige **vekter.**'
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='5cf01cd4-8c63-4fe2-960a-0d3273f93789', title='📚 Nevn 3 påstandar om en matrise A som er _lineært uavhengig_'
+block.type:  toggle
+block.type:  text
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Nevn 3 påstandar om en matrise A som er _lineært uavhengig_<div><p><div class='column_list'><div class='column'>See link to get content<p></p></div><div class='column'><ol><li>Ligninga Ax = 0 har kun den trivielle løsninga x = 0</li></ol><ol><li>Ingen frie variabler når vi løser Ax = 0</li></ol><ol><li>Gausseliminering gir pivotelement i kvar kolonne</li></ol><p></p></div></div></p></div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='0a068699-a7af-4cda-bcba-6578ae702f32', title='📚 Korson finn du ut hvilket av to komplekse tall som er __det største?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson finn du ut hvilket av to komplekse tall som er __det største?__<div><p>Lurespørsmål, det går ikkje fordi på samme måten som du ikkje kan sei at en *vektor* er større enn en anna er det ingen måte å sei at et komplekst tall er større enn et anna.</p></div></div>
+path:  ['2 - Komplekse tall', 'Kapitler']
+block:  id='f7bc60d0-1909-496a-87e0-d2e78af3040d', title='📚 Kva 3 radoperasjonar har du lov til å bruke på ei matrise?'
+block.type:  toggle
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+block.type:  numbered_list
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Kva 3 radoperasjonar har du lov til å bruke på ei matrise?<div><ol><li>Skalere ei rad</li></ol><ol><li>Plusse ei rad med ei anna</li></ol><ol><li>Endre rekkefølga på radene</li></ol></div></div>
+path:  ['1 - Gausseliminasjon', 'Kapitler']
+block:  id='517c192a-4dca-46d7-a5b4-4ace869eaa6a', title='📚 __Basisvektorer__ er vektorar som: vi brukar til å tegne et rutenett. Vanligvis brukar vi enhetsvektorane:'
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='3175b7f2-51ec-4865-89c8-c9d7764ebc95', title='📚 Ei __vektorligning__ er når du skriv et ligningssett som en: lineærkombinasjon av ulike vektorar istedet'
+block.type:  toggle
+block.type:  column_list
+block.type:  column
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+block.type:  column
+block.type:  image
+answer:  <div class='toggle'>📚 Ei __vektorligning__ er når du skriv et ligningssett som en: lineærkombinasjon av ulike vektorar istedet<div><div class='column_list'><div class='column'>See link to get content<p></p></div><div class='column'>See link to get content</div></div></div></div>
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='4a83d0ba-31a4-4c6d-ac32-b58919938b33', title='📚 Tegn 3D vektorar som er __lineært avhengige__ og som er __lineært uavhengige__'
+block.type:  toggle
+block.type:  image
+answer:  <div class='toggle'>📚 Tegn 3D vektorar som er __lineært avhengige__ og som er __lineært uavhengige__<div>See link to get content</div></div>
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='14a5e38d-cd80-42aa-9b5a-bcea0b50e0e1', title='📚 __Basisvektorane__ i et vektorrom er: et sett av vektorar som __spenner__ over heile rommet'
+path:  ['3 - Vektorligninger', 'Kapitler']
+block:  id='25884dca-e90b-4aea-a29e-6e5e5283d525', title='📚 Kva er en parallellepiped, og kva har det med lineære transformasjonar å gjere'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  image
+answer:  <div class='toggle'>📚 Kva er en parallellepiped, og kva har det med lineære transformasjonar å gjere<div><p>Determinanten til ei 3x3-matrise er volumet av parallellepipeden dei tre vektorane utspenner.</p>See link to get content</div></div>
+path:  ['5 - Lineær uavhengighet og determinanter', 'Kapitler']
+block:  id='a93d75f0-c91e-4029-84a2-cb4d5d41a2b8', title='📚 Korson kan du (intuitivt) gange sammen to matrise av ulik størrelse?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson kan du (intuitivt) gange sammen to matrise av ulik størrelse?<div><p>Gi kvar av kolonnevektorane nye sko</p></div></div>
+path:  ['4 - Matriser', 'Kapitler']
+block:  id='4b3ce89e-034e-4945-86cb-baa9e11b938a', title='📚 What is a non-homogeneous DE and why is this question here?'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+block.type:  equation
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What is a non-homogeneous DE and why is this question here?<div><p>Read here ‣ .</p><p>It is here because </p>See link to get content<p>is a non-homogeneous DE</p></div></div>
+path:  ['11.3 Forced Oscillations', 'Fourier', '4K', 'Skule (nossr)']
+block:  id='c7f01ede-dff1-4efd-abba-32854dacfd9b', title='📚 Korson lagar du en stepperfunksjon som er 1 mellom b og c?'
+block.type:  toggle
+block.type:  image
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson lagar du en stepperfunksjon som er 1 mellom b og c?<div>See link to get content<p>⚠️ siste illustrasjon feil! ↑ [todo rett opp]</p></div></div>
+path:  ['6.3 Unit Step Function. Second Shifting Theorem.', 'Laplace', '4K', 'Skule (nossr)']
+block:  id='42be8fa7-c5a1-4127-af61-c3631470788c', title='📚 Et anna ord for Dirac delta function er: unit impulse function'
+path:  ["6.4 Impulses. Dirac's delta function", 'Laplace', '4K', 'Skule (nossr)']
+block:  id='461ce2f5-6b28-45bc-9faf-3ae5925dc72c', title='📚 What is an _impulse_ in ① mechanics and ② electronics'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 What is an _impulse_ in ① mechanics and ② electronics<div><p>Impulse is the integral of an acting force from a to a+k.</p><p>In mechanics it can be a fotball shot. In electronics it can be a short burst of high voltage.</p></div></div>
+path:  ["6.4 Impulses. Dirac's delta function", 'Laplace', '4K', 'Skule (nossr)']
+block:  id='649add55-23ce-411a-9bd8-0716d83efabf', title='📚 Korson kan du sei at fysikk berre er en serie av __update rules?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 Korson kan du sei at fysikk berre er en serie av __update rules?__<div><p>Alt heng sammen. Ingen magi skjer.</p><p>State-basert</p></div></div>
+path:  ['Fysikk', 'Skule (nossr)']
+block:  id='65256ff7-f761-4ae0-8702-44ae48f6f757', title='📚 Enheten til effekt er: [P] = W/s = W (watt)'
+path:  ['Arbeid. Energi', 'Mekanikk', 'Fysikk', 'Skule (nossr)']
+block:  id='4e82e65e-e711-4af5-8821-352e3cf0fbc0', title='📚 __Koffor e ladninga i kondensatorar i en serie lik for alle element?__'
+block.type:  toggle
+block.type:  text
+'NoneType' object is not iterable
+answer:  <div class='toggle'>📚 __Koffor e ladninga i kondensatorar i en serie lik for alle element?__<div><p>Fordi strømmen er lik over alt.</p></div></div>
+path:  ['Kondensator', 'Elektronikk', 'Skule (nossr)']
+block:  id='0d979f7f-ebdb-444b-a92e-cb601466ceae', title='📚 Enheten til den gjensidige induktansen __M__ er: det samme som L, nemlig __Henry__'
+path:  ['Gjensidig induktans', 'ESDA', 'Elektronikk', 'Skule (nossr)']
+block:  id='c8be5304-14e0-4d9f-bc81-2b67b9fca828', title='📚 __Den komplekse amplituden__ til spenninga over en spole med gjensidig induktans:'

@@ -4,6 +4,7 @@ import json
 from anki import addNote, printStats
 import markdown
 from random import randint
+import os
 
 from progress.bar import Bar
 from notionHelpers import count_elements
@@ -22,7 +23,7 @@ def progressBar(at, max):
 
 def hello():
     client = NotionClient(
-        token_v2="738991375dbb49e1050ead92da668fb277c43c6df82f1dd49b6e667a3d83a8da738051a0a7d489d04dccaa043b81e6d196beaa11f7e6a4e233a96491391d13337a9fbc7a2911f6a9f9a4452f1192")
+        token_v2=os.environ["NOTION_TOKEN"])
     
     block = client.get_block(
         "https://www.notion.so/larskarbo/MEMO-100-e3443bc723324b6dbf346146a3edd61e#3f6b8251f8b84e4e8a04525cca37f70c")

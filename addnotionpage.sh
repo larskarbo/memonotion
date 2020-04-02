@@ -1,0 +1,1 @@
+cd /Users/lars/dev/memonotion/ && pipenv run addnotionpage
