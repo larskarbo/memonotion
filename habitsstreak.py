@@ -65,6 +65,7 @@ for child in block.children:
     child.add_callback(my_callback)
 client.start_monitoring()
 
+print("Running habitsstreak")
 # %%
 while(True):
     time.sleep(1)
