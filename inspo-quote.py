@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import random
-
 from notion.client import NotionClient
 from notion.block import TextBlock, ImageBlock, BulletedListBlock
 import os
