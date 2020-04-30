@@ -5,6 +5,7 @@ from notion.client import NotionClient
 from notion.block import TextBlock, ImageBlock, BulletedListBlock
 import os
 import requests
+import random
 
 def findChild(page, searchString):
     for child in page.children:
@@ -25,4 +26,7 @@ quoteHolder = findChild(template, "Motivational quote of the day")
 for child in quoteHolder.children:
     child.remove()
 
-quoteHolder.children.add_new(TextBlock, title=("**" + quote["text"] + "** -" + quote["author"]))
+if random.random() > 0.8:
+    quoteHolder.children.add_new(TextBlock, title=("**" + quote["text"] + "** -" + quote["author"]))
+else:
+    quoteHolder.children.add_new(TextBlock, title=("no quote today..."))
