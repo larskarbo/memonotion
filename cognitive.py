@@ -45,6 +45,8 @@ def findUntaken():
 
 # %%
 gift_central = client.get_block("https://www.notion.so/larskarbo/Gift-central-c8420c0f914440e0a5d68e6c6e972701")
+for child in gift_central.children:
+    child.remove()
 
 def addBias():
     (chapter, sub, bias) = findUntaken()
