@@ -1,7 +1,7 @@
 from notion.client import NotionClient
 import random
 import json
-from parse import addTask, getTasks, moveToTrash, printStats
+# from parse import addTask, getTasks, moveToTrash, printStats
 from notionHelpers import blockToHTML
 import markdown
 import os
@@ -12,14 +12,16 @@ from progress.bar import Bar
 def addAndUpdate():
     client = NotionClient(token_v2=os.environ["NOTION_TOKEN"])
 
-    jojo = client.search("📚")
+    jojo = client.search_blocks("📖")
+    print('jojo: ', jojo)
+    return
     bar = Bar('Processing', max=len(jojo["results"]))
 
     for block_id in jojo["results"]:
         bar.next()
         block = client.get_block(block_id)
         print('block: ', block)
-
+        continue
         answer = ""
         answerLink = ""
         question = block.title.split(":")[0]
@@ -65,13 +67,13 @@ def addAndUpdate():
         if "nossr" in "".join(path):
             state = "disabled"
 
-        res = addTask(n_id=block_id), fields={
-            "question": question,
-            "answer": answer,
-            "answerLink": answerLink,
-            "path": path,
-            "state": state
-        }, tp="📚")
+        # res = addTask(n_id=block_id), fields={
+        #     "question": question,
+        #     "answer": answer,
+        #     "answerLink": answerLink,
+        #     "path": path,
+        #     "state": state
+        # }, tp="📚")
 
     bar.finish()
 
@@ -100,4 +102,4 @@ def deleteTrashNotions():
 addAndUpdate()
 # deleteTrashNotions()
 
-printStats()
+# printStats()

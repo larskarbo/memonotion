@@ -38,7 +38,7 @@ for row in rows:
         print(row.title)
         resp = requests.get("http://go-to-book.local:9999/book/" + row.title)
         if resp.json()["status"] == "ok":
-            # row.link = "http://localhost:9999/book/" + row.title.replace(" ", "-") + "/open"
+            row.link = "http://go-to-book.local:9999/book/" + row.title.replace(" ", "-") + "/open"
             if resp.json()["cover"]:
                 print("cover!", row.title)
                 addImage(row, resp.json()["cover"])

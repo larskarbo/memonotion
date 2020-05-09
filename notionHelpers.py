@@ -70,3 +70,9 @@ def blockToHTML(client, blockID):
 
     return out
 
+def findChild(page, searchString):
+    # print("finding child")
+    for child in page.children:
+        # if child.type == "text" or child.type == "toggle" or child.type == "todo":
+        if searchString in child.title:
+            return child
