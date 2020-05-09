@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3031c09f-789f-4872-b79c-8cefd33284f3</dc:identifier>
+        <dc:title>Chapter 13: Venture Financings Split</dc:title>
+        <dc:creator opf:file-as="Feld, Brad &amp; Mendelson, Jason" opf:role="aut">Brad Feld</dc:creator>
+        <dc:creator opf:file-as="Feld, Brad &amp; Mendelson, Jason" opf:role="aut">Jason Mendelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-26T22:00:00+00:00</dc:date>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Brad Feld&quot;: &quot;&quot;, &quot;Jason Mendelson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-09T13:26:50.721309+00:00" name="calibre:timestamp"/>
+        <meta content="Chapter 13: Venture Financings Split" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Chapter 13_ Venture Financings Split - Brad Feld &amp; Jason Mendelson.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

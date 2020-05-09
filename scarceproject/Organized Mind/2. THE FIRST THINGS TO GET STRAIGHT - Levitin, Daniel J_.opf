@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97f8ee20-76b0-422e-906f-74a15cd598ea</dc:identifier>
+        <dc:title>2. THE FIRST THINGS TO GET STRAIGHT</dc:title>
+        <dc:creator opf:file-as="Levitin, Daniel J." opf:role="aut">Levitin, Daniel J.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-03T22:00:00+00:00</dc:date>
+        <dc:publisher>Penguin USA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Levitin, Daniel J.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-09T13:26:50.748337+00:00" name="calibre:timestamp"/>
+        <meta content="2. THE FIRST THINGS TO GET STRAIGHT" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="2. THE FIRST THINGS TO GET STRAIGHT - Levitin, Daniel J_.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

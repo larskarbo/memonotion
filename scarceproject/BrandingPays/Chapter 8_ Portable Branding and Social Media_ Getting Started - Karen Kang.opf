@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50432bb7-9c27-40a6-bf3c-bda060fcfe90</dc:identifier>
+        <dc:title>Chapter 8: Portable Branding and Social Media: Getting Started</dc:title>
+        <dc:creator opf:file-as="Kang, Karen" opf:role="aut">Karen Kang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Split from:&lt;/p&gt;Before she knew what a calorie was, Karen Kang was allowed to have only five hundred of them. She was seven. Forced into the spotlight by her weight-obsessed mother, Kang spent her childhood trapped in a world of pageants, performances, and perpetual hunger. In a subconscious attempt to cover herself, Kang tells us her story of using food and weight-gain to shield herself from the eyes that roved her. Amid heated controversy about the obesity epidemic, food regulation, and children who are put on display in child beauty pageants, Kang's timely memoir Fatlash offers an unprecedented look at an adult survivor who finally came to an understanding about how her experiences affected her. While Fatlash reads like fiction, this true story exposes the truth about a little girl who was forced into a world she didn't understand, where everyone dictated what she could and could not have. Now is the time to take action against this kind of food policing&amp;#8212;and Kang's story does just that. Relevant to all readers, her timeless story will continue to serve as caution against what not to do for years to come.</dc:description>
+        <dc:publisher>BrandingPays Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Karen Kang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-09T13:26:50.973380+00:00" name="calibre:timestamp"/>
+        <meta content="Chapter 8: Portable Branding and Social Media: Getting Started" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Chapter 8_ Portable Branding and Social Media_ Getting Started - Karen Kang.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
