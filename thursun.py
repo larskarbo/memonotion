@@ -10,6 +10,7 @@ from notion.block import TextBlock, TodoBlock, BulletedListBlock
 from datetime import datetime
 from notionHelpers import findChild
 import requests
+import os
 
 # %%
 client = NotionClient(token_v2=os.environ["NOTION_TOKEN"], monitor=True)
