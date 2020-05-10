@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # %%
-%load_ext autoreload
-%autoreload 2
+
+# todo move these to global config ↓
+# %load_ext autoreload
+# %autoreload 2
 
 from notion.client import NotionClient
 from notion.block import TextBlock, TodoBlock, BulletedListBlock
