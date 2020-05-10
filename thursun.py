@@ -31,7 +31,7 @@ else:
         victim.remove()
 
 #%%
-if today == "Sunday":
+if today == "Tuesday":
     requests.get("https://api.telegram.org/bot1196576929:AAFCVPBTMcSUlrHAIFBO_Ni7e9em0Nje10U/sendMessage?chat_id=912275377&text=remember to read scarce books!")
     newchild = block.children.add_new(TodoBlock, title=("are scarce books read? (todo fix delete and update script)"))
     newchild.move_to(newchild.parent, 'first-child')
