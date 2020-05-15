@@ -19,7 +19,7 @@ client = NotionClient(token_v2=os.environ["NOTION_TOKEN"], monitor=True)
 
 
 # %%
-block = client.get_block("https://www.notion.so/larskarbo/French-31afa53ea32b44e9a52c9525fae99d0f#26ce76377f784964bae3bd01300bc665")
+block = client.get_block("https://www.notion.so/larskarbo/Cyri-work-out-Streak-1b454777c2884062ab2c55a5be4edf38")
 
 
 # %%
@@ -37,7 +37,7 @@ def countStreak():
         giveNewGift(streak)
 
 def giveNewGift(streak):
-    gift_central = client.get_block("https://www.notion.so/larskarbo/Cyri-Streak-Gifts-d7679ab742244db7ac6d717e0f5195fd")
+    gift_central = client.get_block("https://www.notion.so/larskarbo/Cyri-Streak-Gifts-c12031e54aa1467ca1a3378cea5489c7")
     giftHolder = findChild(block, "🎁")
     gift = findChild(gift_central, str(streak))
     if not gift:
