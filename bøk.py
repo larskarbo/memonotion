@@ -1,27 +1,26 @@
+#%%
+# %reload_ext autoreload
+# %autoreload 2
 from notion.client import NotionClient
 import random
 import json
-# from parse import addTask, getTasks, moveToTrash, printStats
+from anki import addNote, moveToTrash, printStats
 from notionHelpers import blockToHTML
 import markdown
 import os
 
 from progress.bar import Bar
 
+client = NotionClient(token_v2=os.environ["NOTION_TOKEN"])
 
+#%%
 def addAndUpdate():
-    client = NotionClient(token_v2=os.environ["NOTION_TOKEN"])
 
     jojo = client.search_blocks("📖")
-    print('jojo: ', jojo)
-    return
-    bar = Bar('Processing', max=len(jojo["results"]))
+    bar = Bar('Processing', max=len(jojo))
 
-    for block_id in jojo["results"]:
+    for block in jojo:
         bar.next()
-        block = client.get_block(block_id)
-        print('block: ', block)
-        continue
         answer = ""
         answerLink = ""
         question = block.title.split(":")[0]
@@ -33,19 +32,15 @@ def addAndUpdate():
             print("skipping this:", block.title)
             continue
 
-        if "↑" in block.title:
-            continue
-        if block.parent.type == "column":
-            answerLink = block.parent.parent.get_direct_browseable_url()
-        else:
-            answerLink = block.get_direct_browseable_url()
-            if block.get("content"):
-                # print(blockToHTML(client, "b6237023-b8e9-4fef-9674-cb149f97a0a9"))
-                answer = blockToHTML(client, block_id)
-                print('answer: ', answer)
-            elif ":" in block.title:
-                answer = markdown.markdown(block.title.split(":")[1])
+        # answerLink = block.get_direct_browseable_url()
+        if block.get("content"):
+            print(block.get("content"))
+            # print(blockToHTML(client, "b6237023-b8e9-4fef-9674-cb149f97a0a9"))
+            answer = blockToHTML(client, block)
+        elif ":" in block.title:
+            answer = markdown.markdown(block.title.split(":")[1])
 
+        print(question, answer)
         path = []
 
         def recursiveFindPath(block):
@@ -59,21 +54,15 @@ def addAndUpdate():
                 recursiveFindPath(block.parent)
 
         recursiveFindPath(block)
-        print('path: ', path)
-
         path.reverse()
 
-        state = "active"
-        if "nossr" in "".join(path):
-            state = "disabled"
-
-        # res = addTask(n_id=block_id), fields={
-        #     "question": question,
-        #     "answer": answer,
-        #     "answerLink": answerLink,
-        #     "path": path,
-        #     "state": state
-        # }, tp="📚")
+        res = addNote(fields={
+            "n_id": block.id,
+            "question": question,
+            "answer": answer,
+            "answerLink": answerLink,
+            "path": "-".join(path)
+        }, deckName="all::memo", model="memonote")
 
     bar.finish()
 
@@ -102,4 +91,4 @@ def deleteTrashNotions():
 addAndUpdate()
 # deleteTrashNotions()
 
-# printStats()
+printStats()

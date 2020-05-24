@@ -31,18 +31,15 @@ def get_next_cv(client, block):
     return cv2
 
 
-def blockToHTML(client, blockID):
-    block = client.get_block(blockID)
-    print('block.type: ', block.type)
+def blockToHTML(client, block):
     out = ""
     childrenOut = ""
     if block.type != "image":
         try:
             children = block.get("content")
             for child in children:
-                childrenOut += blockToHTML(client, child)
+                childrenOut += blockToHTML(client, client.get_block(child))
         except Exception as e:
-            print(e)
             childrenOut = block.title
 
     if block.type == "toggle":
@@ -61,8 +58,6 @@ def blockToHTML(client, blockID):
         out = "<p>" + childrenOut + "</p>"
     # image link does not work
     # elif block.type == "image":
-    #     print("display_source", block.display_source)
-    #     print("source", block.source)
     #     out = "<img src>"
     else:
         return "See link to get content"
@@ -71,7 +66,6 @@ def blockToHTML(client, blockID):
     return out
 
 def findChild(page, searchString):
-    # print("finding child")
     for child in page.children:
         # if child.type == "text" or child.type == "toggle" or child.type == "todo":
         if searchString in child.title:
