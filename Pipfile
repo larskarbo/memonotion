@@ -14,7 +14,8 @@ progress = "*"
 markdown = "*"
 asyncio = "*"
 firebase-admin = "*"
-notion = {editable = true,path = "./../notion-py"}
+#notion = {editable = true,path = "./../notion-py"}
+notion = "*"
 pandas = "*"
 
 [requires]
