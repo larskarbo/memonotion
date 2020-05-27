@@ -27,6 +27,15 @@ diff = today - startdate
 weeknumber = (diff.days//7) + 1
 print("You are on week " + str(weeknumber))
 
+def remove(path):
+    """ param <path> could either be relative or absolute. """
+    if os.path.isfile(path) or os.path.islink(path):
+        os.remove(path)  # remove the file
+    elif os.path.isdir(path):
+        shutil.rmtree(path)  # remove dir and all contains
+    else:
+        raise ValueError("file {} is not a file or dir.".format(path))
+
 #%%
 i = 1
 for row in rows:
@@ -41,7 +50,7 @@ for row in rows:
         newfile = files[weeknumber - 1]
         print('newfile: ', newfile)
 
-        shutil.rmtree(library + filetodelete.split("/")[-1])
+        remove(library + filetodelete.split("/")[-1])
         shutil.copyfile(newfile, library + newfile.split("/")[-1])
         row.scarcestatus = str(weeknumber) + " / " + str(len(files))
         row.scarcetag = "notread"
