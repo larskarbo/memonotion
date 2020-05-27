@@ -11,7 +11,7 @@ import shutil
 from datetime import datetime, date
 import glob
 
-library = os.path.expanduser("~") + "Library/Mobile Documents/iCloud~com~apple~iBooks/Documents/"
+library = os.path.expanduser("~") + "/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents/"
 #%%
 
 client = NotionClient(token_v2=os.environ["NOTION_TOKEN"])
