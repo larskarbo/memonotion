@@ -1,24 +1,24 @@
+const defaults = {
+	time: true
+}
+
+const pipenv = {
+	interpreter: "pipenv",
+	interpreter_args: "run python",
+	...defaults
+}
+
 module.exports = {
   apps: [
     {
       name: "habitsstreak",
-      script: "habitsstreak.py",
-      interpreter: "pipenv",
-      interpreter_args: "run python",
+			script: "habitsstreak.py",
+			...pipenv
     },
     {
       name: "habitsstreak-cyri",
-      script: "habitsstreak-cyri.py",
-      interpreter: "pipenv",
-      interpreter_args: "run python",
+			script: "habitsstreak-cyri.py",
+			...pipenv
     },
-    // {
-    //   name: "testyo",
-    //   script: "test.py",
-    //   interpreter: "pipenv",
-    //   cron_restart: "* * * * *",
-		// 	interpreter_args: "run python",
-		// 	autorestart: false
-    // },
   ],
 };

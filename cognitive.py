@@ -57,10 +57,9 @@ def addBias():
 def addSorry():
     gift_central.children.add_new(TextBlock, title=("sorry, no new biases"))
 
-if random.random() > 0.6:
-    addBias()
-else:
-    addSorry()
+addBias()
+
+requests.get("https://api.telegram.org/bot1196576929:AAFCVPBTMcSUlrHAIFBO_Ni7e9em0Nje10U/sendMessage?chat_id=912275377&text=remember to do a cognitive today!")
 # %%
 
 # %%

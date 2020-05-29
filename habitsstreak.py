@@ -28,7 +28,7 @@ def countStreak():
     for child in block.children:
         alltext += child.title
 
-    streak = alltext.count("⚡︎")
+    streak = alltext.count("x")
     streakHolder = findChild(block, "🔥")
     oldstreak = int(streakHolder.title.split(":")[1])
     if streak != oldstreak:
