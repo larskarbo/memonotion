@@ -35,6 +35,10 @@ skipped = 0
 removed = 0
 
 
+def sync(deck):
+	yo = invoke("sync")
+
+
 def getDeck(deck):
 	yo = invoke("findNotes", query=("deck:"+deck))
 	ninfo = invoke("notesInfo", notes=yo)
