@@ -35,7 +35,7 @@ skipped = 0
 removed = 0
 
 
-def sync(deck):
+def sync():
 	yo = invoke("sync")
 
 
