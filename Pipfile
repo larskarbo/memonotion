@@ -3,20 +3,12 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
-[dev-packages]
-autopep8 = "*"
-
 [packages]
-genanki = "*"
-ankisync = "*"
 requests = "*"
 progress = "*"
 markdown = "*"
-asyncio = "*"
-firebase-admin = "*"
 #notion = {editable = true,path = "./../notion-py"}
 notion = "*"
-pandas = "*"
 
 [requires]
 python_version = "3.7"
