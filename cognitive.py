@@ -8,6 +8,12 @@ import os
 import requests
 import time
 import json
+from datetime import datetime
+import sys
+
+if not datetime.today().strftime("%a") == "Sat":
+	print("exiting")
+	sys.exit()
 
 def findChild(page, searchString):
     for child in page.children:
