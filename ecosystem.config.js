@@ -1,24 +1,23 @@
-const defaults = {
-	time: true
-}
-
-const pipenv = {
-	interpreter: "pipenv",
-	interpreter_args: "run python",
-	...defaults
-}
 
 module.exports = {
   apps: [
     {
       name: "habitsstreak",
 			script: "habitsstreak.py",
-			...pipenv
+			interpreter: "pipenv",
+			interpreter_args: "run python",
     },
     {
       name: "habitsstreak-cyri",
 			script: "habitsstreak-cyri.py",
-			...pipenv
+			interpreter: "pipenv",
+			interpreter_args: "run python",
+    },
+    {
+      name: "blogapi",
+			script: "blogapi.py",
+			interpreter: "pipenv",
+			interpreter_args: "run python",
     },
   ],
 };

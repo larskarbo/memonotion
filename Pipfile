@@ -9,6 +9,8 @@ progress = "*"
 markdown = "*"
 #notion = {editable = true,path = "./../notion-py"}
 notion = "*"
+bottle = "*"
+python-slugify = "*"
 
 [requires]
 python_version = "3.7"
