@@ -16,15 +16,19 @@ def getPosts():
 	rows = cv.collection.get_rows()
 	posts = {}
 	for row in rows:
-		posts[row.slug] = {
-			"page": row.page,
-			"tags": row.tags,
-			"slug": row.slug,
-			"published": row.published,
-			"n_id": row.n_id,
-			"date": (row.date.start-datetime.date(1970,1,1)).total_seconds() * 1000,
-			"authors": ["Lars Karbø"],
-		}
+		try:
+			posts[row.slug] = {
+				"page": row.page,
+				"tags": row.tags,
+				"slug": row.slug,
+				"published": row.published,
+				"n_id": row.n_id,
+				"date": (row.date.start-datetime.date(1970,1,1)).total_seconds() * 1000,
+				"authors": ["Lars Karbø"],
+			}
+		except Exception as e:
+			print("skipping")
+
 	return posts
 
 
